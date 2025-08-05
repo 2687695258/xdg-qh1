@@ -1,0 +1,1438 @@
+﻿Log file open, 08/05/25 16:19:14
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: Sterilizer
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.207488
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 12th Gen Intel(R) Core(TM) i5-12400F, GPU: NVIDIA GeForce GTX 1660
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line: 
+LogInit: Base Directory: D:/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/F盘/上传官网/xdg-qh1/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2025.08.05-08.19.15:146][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2025.08.05-08.19.15:146][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2025.08.05-08.19.15:146][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [E:/F盘/上传官网/xdg-qh1/Saved/Config/Windows/Engine.ini]
+[2025.08.05-08.19.15:146][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2025.08.05-08.19.15:146][  0]LogConfig: Setting CVar [[r.AllowGlobalClipPlane:1]]
+[2025.08.05-08.19.15:146][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [E:/F盘/上传官网/xdg-qh1/Saved/Config/Windows/Engine.ini]
+[2025.08.05-08.19.15:146][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [E:/F盘/上传官网/xdg-qh1/Saved/Config/Windows/Engine.ini]
+[2025.08.05-08.19.15:146][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2025.08.05-08.19.15:146][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2025.08.05-08.19.15:146][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2025.08.05-08.19.15:146][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2025.08.05-08.19.15:146][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2025.08.05-08.19.15:146][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2025.08.05-08.19.15:146][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2025.08.05-08.19.15:146][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2025.08.05-08.19.15:146][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2025.08.05-08.19.15:146][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2025.08.05-08.19.15:146][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2025.08.05-08.19.15:146][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2025.08.05-08.19.15:146][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2025.08.05-08.19.15:146][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2025.08.05-08.19.15:146][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [E:/F盘/上传官网/xdg-qh1/Saved/Config/Windows/Engine.ini]
+[2025.08.05-08.19.15:146][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2025.08.05-08.19.15:146][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2025.08.05-08.19.15:146][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2025.08.05-08.19.15:146][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2025.08.05-08.19.15:146][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2025.08.05-08.19.15:146][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2025.08.05-08.19.15:146][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2025.08.05-08.19.15:146][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2025.08.05-08.19.15:146][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2025.08.05-08.19.15:146][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2025.08.05-08.19.15:146][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2025.08.05-08.19.15:146][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2025.08.05-08.19.15:146][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2025.08.05-08.19.15:146][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2025.08.05-08.19.15:146][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [E:/F盘/上传官网/xdg-qh1/Saved/Config/Windows/Engine.ini]
+[2025.08.05-08.19.15:146][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [E:/F盘/上传官网/xdg-qh1/Saved/Config/Windows/Engine.ini]
+[2025.08.05-08.19.15:149][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/F盘/上传官网/xdg-qh1/Saved/Config/Windows/Scalability.ini]
+[2025.08.05-08.19.15:149][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2025.08.05-08.19.15:149][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2025.08.05-08.19.15:149][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/F盘/上传官网/xdg-qh1/Saved/Config/Windows/Scalability.ini]
+[2025.08.05-08.19.15:149][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2025.08.05-08.19.15:149][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/F盘/上传官网/xdg-qh1/Saved/Config/Windows/Scalability.ini]
+[2025.08.05-08.19.15:149][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2025.08.05-08.19.15:149][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2025.08.05-08.19.15:149][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2025.08.05-08.19.15:149][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2025.08.05-08.19.15:149][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/F盘/上传官网/xdg-qh1/Saved/Config/Windows/Scalability.ini]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/F盘/上传官网/xdg-qh1/Saved/Config/Windows/Scalability.ini]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/F盘/上传官网/xdg-qh1/Saved/Config/Windows/Scalability.ini]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/F盘/上传官网/xdg-qh1/Saved/Config/Windows/Scalability.ini]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/F盘/上传官网/xdg-qh1/Saved/Config/Windows/Scalability.ini]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2025.08.05-08.19.15:150][  0]LogInit: Selected Device Profile: [Windows]
+[2025.08.05-08.19.15:150][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2025.08.05-08.19.15:150][  0]LogHAL: Display: Platform has ~ 32 GB [34160525312 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2025.08.05-08.19.15:150][  0]LogInit: Going up to parent DeviceProfile []
+[2025.08.05-08.19.15:150][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [E:/F盘/上传官网/xdg-qh1/Saved/Config/Windows/Scalability.ini]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [E:/F盘/上传官网/xdg-qh1/Saved/Config/Windows/Scalability.ini]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [E:/F盘/上传官网/xdg-qh1/Saved/Config/Windows/Scalability.ini]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [E:/F盘/上传官网/xdg-qh1/Saved/Config/Windows/Scalability.ini]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2025.08.05-08.19.15:150][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [E:/F盘/上传官网/xdg-qh1/Saved/Config/Windows/Scalability.ini]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [E:/F盘/上传官网/xdg-qh1/Saved/Config/Windows/Scalability.ini]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [E:/F盘/上传官网/xdg-qh1/Saved/Config/Windows/Scalability.ini]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [E:/F盘/上传官网/xdg-qh1/Saved/Config/Windows/Scalability.ini]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2025.08.05-08.19.15:151][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/F盘/上传官网/xdg-qh1/Saved/Config/Windows/Engine.ini]
+[2025.08.05-08.19.15:151][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [E:/F盘/上传官网/xdg-qh1/Saved/Config/Windows/Editor.ini]
+[2025.08.05-08.19.15:151][  0]LogInit: Computer: NEW
+[2025.08.05-08.19.15:151][  0]LogInit: User: Administrator
+[2025.08.05-08.19.15:151][  0]LogInit: CPU Page size=4096, Cores=6
+[2025.08.05-08.19.15:151][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2025.08.05-08.19.15:151][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2025.08.05-08.19.15:151][  0]LogMemory: Platform Memory Stats for Windows
+[2025.08.05-08.19.15:151][  0]LogMemory: Process Physical Memory: 148.23 MB used, 148.24 MB peak
+[2025.08.05-08.19.15:151][  0]LogMemory: Process Virtual Memory: 129.52 MB used, 129.52 MB peak
+[2025.08.05-08.19.15:151][  0]LogMemory: Physical Memory: 15499.29 MB used,  17078.73 MB free, 32578.02 MB total
+[2025.08.05-08.19.15:151][  0]LogMemory: Virtual Memory: 134207632.00 MB used,  10095.02 MB free, 134217728.00 MB total
+[2025.08.05-08.19.15:153][  0]LogWindows: WindowsPlatformFeatures enabled
+[2025.08.05-08.19.15:221][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2025.08.05-08.19.15:221][  0]LogInit: Using OS detected language (zh-CN).
+[2025.08.05-08.19.15:221][  0]LogInit: Using OS detected locale (zh-CN).
+[2025.08.05-08.19.15:222][  0]LogTextLocalizationManager: No specific localization for 'zh-CN' exists, so the 'zh-Hans' localization will be used.
+[2025.08.05-08.19.15:296][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/zh/Editor.locres' could not be opened for reading!
+[2025.08.05-08.19.15:296][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/zh/EditorTutorials.locres' could not be opened for reading!
+[2025.08.05-08.19.15:296][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/zh/Keywords.locres' could not be opened for reading!
+[2025.08.05-08.19.15:296][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/zh/Category.locres' could not be opened for reading!
+[2025.08.05-08.19.15:297][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/zh/ToolTips.locres' could not be opened for reading!
+[2025.08.05-08.19.15:297][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/zh/PropertyNames.locres' could not be opened for reading!
+[2025.08.05-08.19.15:297][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/zh/Engine.locres' could not be opened for reading!
+[2025.08.05-08.19.15:297][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystem/Content/Localization/OnlineSubsystem/zh/OnlineSubsystem.locres' could not be opened for reading!
+[2025.08.05-08.19.15:297][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/OnlineSubsystemUtils/Content/Localization/OnlineSubsystemUtils/zh/OnlineSubsystemUtils.locres' could not be opened for reading!
+[2025.08.05-08.19.15:297][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Content/Localization/OnlineSubsystemGooglePlay/zh/OnlineSubsystemGooglePlay.locres' could not be opened for reading!
+[2025.08.05-08.19.15:297][  0]LogTextLocalizationResource: LocRes '../../../Engine/Plugins/Online/IOS/OnlineSubsystemIOS/Content/Localization/OnlineSubsystemIOS/zh/OnlineSubsystemIOS.locres' could not be opened for reading!
+[2025.08.05-08.19.15:332][  0]LogInit: Setting process to per monitor DPI aware
+[2025.08.05-08.19.15:726][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2025.08.05-08.19.15:741][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2025.08.05-08.19.15:741][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2025.08.05-08.19.15:862][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2025.08.05-08.19.15:866][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2025.08.05-08.19.15:866][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2025.08.05-08.19.15:866][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2025.08.05-08.19.15:866][  0]LogD3D11RHI: D3D11 adapters:
+[2025.08.05-08.19.16:056][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1660' (Feature Level 11_0)
+[2025.08.05-08.19.16:056][  0]LogD3D11RHI:       5966/0/16289 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2025.08.05-08.19.16:058][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2025.08.05-08.19.16:058][  0]LogD3D11RHI:       0/0/16289 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2025.08.05-08.19.16:190][  0]LogD3D11RHI:    2. 'NVIDIA GeForce GTX 1660' (Feature Level 11_0)
+[2025.08.05-08.19.16:190][  0]LogD3D11RHI:       5966/0/16289 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x10de
+[2025.08.05-08.19.16:190][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2025.08.05-08.19.16:190][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1660
+[2025.08.05-08.19.16:190][  0]LogD3D11RHI:     VendorId    : 10de
+[2025.08.05-08.19.16:190][  0]LogD3D11RHI:     DeviceId    : 2184
+[2025.08.05-08.19.16:190][  0]LogD3D11RHI:     SubSysId    : 155119da
+[2025.08.05-08.19.16:190][  0]LogD3D11RHI:     Revision    : 00a1
+[2025.08.05-08.19.16:190][  0]LogD3D11RHI:     DedicatedVideoMemory : 6255804416 bytes
+[2025.08.05-08.19.16:190][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2025.08.05-08.19.16:190][  0]LogD3D11RHI:     SharedSystemMemory : 17080262656 bytes
+[2025.08.05-08.19.16:190][  0]LogD3D11RHI:     AdapterLuid : 0 62306
+[2025.08.05-08.19.16:194][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2025.08.05-08.19.16:194][  0]LogD3D11RHI:     GPU DeviceId: 0x2184 (for the marketing name, search the web for "GPU Device Id")
+[2025.08.05-08.19.16:194][  0]LogWindows: EnumDisplayDevices:
+[2025.08.05-08.19.16:194][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1660' (P:1 D:1)
+[2025.08.05-08.19.16:194][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1660' (P:0 D:0)
+[2025.08.05-08.19.16:195][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1660' (P:0 D:0)
+[2025.08.05-08.19.16:195][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1660' (P:0 D:0)
+[2025.08.05-08.19.16:196][  0]LogWindows:    4. 'OrayIddDriver Device' (P:0 D:0)
+[2025.08.05-08.19.16:196][  0]LogWindows:    5. 'OrayIddDriver Device' (P:0 D:0)
+[2025.08.05-08.19.16:196][  0]LogWindows:    6. 'OrayIddDriver Device' (P:0 D:0)
+[2025.08.05-08.19.16:197][  0]LogWindows:    7. 'OrayIddDriver Device' (P:0 D:0)
+[2025.08.05-08.19.16:197][  0]LogWindows:    8. 'OrayIddDriver Device' (P:0 D:0)
+[2025.08.05-08.19.16:197][  0]LogWindows:    9. 'OrayIddDriver Device' (P:0 D:0)
+[2025.08.05-08.19.16:198][  0]LogWindows:    10. 'OrayIddDriver Device' (P:0 D:0)
+[2025.08.05-08.19.16:198][  0]LogWindows:    11. 'OrayIddDriver Device' (P:0 D:0)
+[2025.08.05-08.19.16:199][  0]LogWindows:    12. 'OrayIddDriver Device' (P:0 D:0)
+[2025.08.05-08.19.16:199][  0]LogWindows:    13. 'OrayIddDriver Device' (P:0 D:0)
+[2025.08.05-08.19.16:199][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2025.08.05-08.19.16:199][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1660
+[2025.08.05-08.19.16:199][  0]LogD3D11RHI:   Driver Version: 576.88 (internal:32.0.15.7688, unified:576.88)
+[2025.08.05-08.19.16:199][  0]LogD3D11RHI:      Driver Date: 6-24-2025
+[2025.08.05-08.19.16:199][  0]LogRHI: Texture pool is 4176 MB (70% of 5966 MB)
+[2025.08.05-08.19.16:199][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2025.08.05-08.19.16:199][  0]LogD3D11RHI:     Description : NVIDIA GeForce GTX 1660
+[2025.08.05-08.19.16:199][  0]LogD3D11RHI:     VendorId    : 10de
+[2025.08.05-08.19.16:199][  0]LogD3D11RHI:     DeviceId    : 2184
+[2025.08.05-08.19.16:199][  0]LogD3D11RHI:     SubSysId    : 155119da
+[2025.08.05-08.19.16:199][  0]LogD3D11RHI:     Revision    : 00a1
+[2025.08.05-08.19.16:199][  0]LogD3D11RHI:     DedicatedVideoMemory : 6255804416 bytes
+[2025.08.05-08.19.16:199][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2025.08.05-08.19.16:199][  0]LogD3D11RHI:     SharedSystemMemory : 17080262656 bytes
+[2025.08.05-08.19.16:199][  0]LogD3D11RHI:     AdapterLuid : 0 62306
+[2025.08.05-08.19.16:322][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2025.08.05-08.19.16:322][  0]LogD3D11RHI: Async texture creation enabled
+[2025.08.05-08.19.16:322][  0]LogD3D11RHI: Array index from any shader is supported
+[2025.08.05-08.19.16:334][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2025.08.05-08.19.16:372][  0]LogRHI: GeForceNow SDK initialized: 1
+[2025.08.05-08.19.16:648][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2025.08.05-08.19.16:663][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2025.08.05-08.19.16:663][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2025.08.05-08.19.16:663][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2025.08.05-08.19.16:663][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2025.08.05-08.19.16:663][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2025.08.05-08.19.16:663][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2025.08.05-08.19.16:663][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2025.08.05-08.19.16:663][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2025.08.05-08.19.16:663][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2025.08.05-08.19.16:663][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2025.08.05-08.19.16:677][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2025.08.05-08.19.16:677][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2025.08.05-08.19.16:684][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2025.08.05-08.19.16:687][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2025.08.05-08.19.16:691][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2025.08.05-08.19.16:695][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2025.08.05-08.19.16:702][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2025.08.05-08.19.16:706][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2025.08.05-08.19.16:709][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2025.08.05-08.19.16:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2025.08.05-08.19.16:725][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2025.08.05-08.19.16:731][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2025.08.05-08.19.16:735][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2025.08.05-08.19.16:739][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2025.08.05-08.19.16:742][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2025.08.05-08.19.16:749][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2025.08.05-08.19.16:749][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2025.08.05-08.19.16:756][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2025.08.05-08.19.16:760][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2025.08.05-08.19.16:764][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2025.08.05-08.19.16:767][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2025.08.05-08.19.16:767][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2025.08.05-08.19.16:774][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2025.08.05-08.19.16:802][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2025.08.05-08.19.16:831][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2025.08.05-08.19.16:831][  0]LogShaderCompilers: Guid format shader working directory is 35 characters bigger than the processId version (E:/F盘/上传官网/xdg-qh1/Intermediate/Shaders/WorkingDirectory/19176/).
+[2025.08.05-08.19.16:831][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Administrator/AppData/Local/Temp/UnrealShaderWorkingDir/6DBD92084F6D8CF999B53D85F0FC5C1D/'.
+[2025.08.05-08.19.16:831][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2025.08.05-08.19.16:831][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2025.08.05-08.19.16:831][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2025.08.05-08.19.17:410][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2025.08.05-08.19.17:461][  0]LogDerivedDataCache: Loaded boot cache 0.05s 114MB C:/Users/Administrator/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2025.08.05-08.19.17:461][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Administrator/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2025.08.05-08.19.17:461][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file E:/F盘/上传官网/xdg-qh1/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2025.08.05-08.19.17:461][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2025.08.05-08.19.17:461][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file E:/F盘/上传官网/xdg-qh1/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2025.08.05-08.19.17:461][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2025.08.05-08.19.17:474][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2025.08.05-08.19.17:474][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2025.08.05-08.19.17:474][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2025.08.05-08.19.17:480][  0]LogDerivedDataCache: Speed tests for C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2025.08.05-08.19.17:480][  0]LogDerivedDataCache: Display: Performance to C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.04ms. RandomReadSpeed=1404.36MBs, RandomWriteSpeed=208.11MBs. Assigned SpeedClass 'Local'
+[2025.08.05-08.19.17:481][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Administrator/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2025.08.05-08.19.17:481][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2025.08.05-08.19.17:481][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2025.08.05-08.19.17:510][  0]LogSlate: Using FreeType 2.10.0
+[2025.08.05-08.19.17:511][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2025.08.05-08.19.17:532][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2025.08.05-08.19.17:679][  0]LogInit: Selected Device Profile: [Windows]
+[2025.08.05-08.19.17:679][  0]LogInit: Active device profile: [0000027CA9BB3300][0000027CA8658840 49] Windows
+[2025.08.05-08.19.17:679][  0]LogInit: Profiles: [0000027CA9BB3300][0000027CA8658840 49] Windows, [0000027CA9B65200][0000027CA865C9C0 49] WindowsNoEditor, [0000027CA9BB1200][0000027CA8660B40 49] WindowsServer, [0000027CA9B67000][0000027CA8664CC0 49] WindowsClient, [0000027CA9BB3000][0000027CA8668E40 49] IOS, [0000027CA9B65300][0000027CA866CFC0 49] iPadAir, [0000027CA9BB0400][0000027CA8671140 49] iPadAir2, [0000027CA9B28600][0000027CA8679400 49] IPadPro, [0000027CA9B28700][0000027CA8675440 49] iPadAir3, [0000027CA9BB2D00][0000027CA867D5C0 49] iPadAir4, [0000027CA9B2AE00][0000027CA98E3740 49] iPadMini2, [0000027CA9BB1400][0000027CA98E78C0 49] iPadMini3, [0000027CA9B29800][0000027CA98EBA40 49] iPadMini4, [0000027CA9BB2B00][0000027CA98EFBC0 49] iPadMini5, [0000027CA9B1BE00][0000027CA98F6300 49] iPhone6, [0000027CA9B1BF00][0000027CA98F2340 49] iPodTouch6, [0000027CA9B28400][0000027CA86545C0 49] iPhone7, [0000027CA9B2AD00][0000027CA98FA600 49] iPodTouch7, [0000027CA9B19300][0000027CA991E740 49] iPhone5S, [0000027CA9B2A100][0000027CA9942880 49] iPhone6Plus, [0000027CA9B1AE00][0000027CA99469C0 49] iPhone6S, [0000027CA9B28200][0000027CA994EB40 49] iPhone6SPlus, [0000027CA9B19600][0000027CA9952CC0 49] iPhone7Plus, [0000027CA9B29F00][0000027CA9956E40 49] iPhoneSE, [0000027CA9B1AB00][0000027CA995AFC0 49] iPhone8, [0000027CA9B29600][0000027CA995F140 49] iPhone8Plus, [0000027CA9B19A00][0000027CA99632C0 49] iPhoneX, [0000027CA9B2B600][0000027CA9967440 49] iPhoneXS, [0000027CA9B18700][0000027CA996B5C0 49] iPhoneXSMax, [0000027CA9B2A500][0000027CA996F740 49] iPhoneXR, [0000027CA9B1B600][0000027CA99738C0 49] iPhone11, [0000027CA9B29A00][0000027CA9977A40 49] iPhone11Pro, [0000027CA9B1A700][0000027CA997BBC0 49] iPhone11ProMax, [0000027CA9B2A900][0000027CA99B21C0 49] iPhoneSE2, [0000027CA9B19E00][0000027CA99B6340 49] iPhone12Mini, [0000027CA9B28300][0000027CA99BA4C0 49] iPhone12, [0000027CA9B1A400][0000027CA99BE640 49] iPhone12Pro, [0000027CA9B29C00][0000027CA994A780 49] iPhone12ProMax, [0000027CA9B1A100][0000027CA99C28C0 49] iPadPro105, [0000027CA9B28900][0000027CA99C6A00 49] iPadPro129, [0000027CA9B19D00][0000027CA99CAB40 49] iPadPro97, [0000027CA9B28C00][0000027CA99D2CC0 49] iPadPro2_129, [0000027CA9B1A900][0000027CA99D6E40 49] iPad5, [0000027CA9B28E00][0000027CA99DAFC0 49] iPad6, [0000027CA9B19500][0000027CA99DF140 49] iPad7, [0000027CA9B2B700][0000027CA99E32C0 49] iPad8, [0000027CA9B1BB00][0000027CA99E7440 49] iPadPro11, [0000027CA9B28500][0000027CA99EB5C0 49] iPadPro2_11, [0000027CA9B18A00][0000027CA99EF740 49] iPadPro3_129, [0000027CA9B2A800][0000027CA99F38C0 49] iPadPro4_129, [0000027CA9B1A600][0000027CA99F7A40 49] AppleTV, [0000027CA9B2BE00][0000027CA99FBBC0 49] AppleTV4K, [0000027CA9B19B00][0000027CA99FE1C0 49] TVOS, [0000027CA9B29300][0000027CA9A02340 49] Mac, [0000027CA9B18400][0000027CA9A064C0 49] MacClient, [0000027CA9B2AC00][0000027CA9A0A640 49] MacNoEditor, [0000027CA9B1AC00][0000027CA9A0E7C0 49] MacServer, [0000027CA9B29000][0000027CA9A12940 49] Linux, [0000027CA9B1A500][0000027CA99CEA80 49] LinuxAArch64, [0000027CA9B2B200][0000027CA9A16BC0 49] LinuxNoEditor, [0000027CA9B18F00][0000027CA9A1AD00 49] LinuxAArch64NoEditor, [0000027CA9B28A00][0000027CA9A22E80 49] LinuxClient, [0000027CA9B19900][0000027CA9A27000 49] LinuxAArch64Client, [0000027CA9B67C00][0000027CA9A2B180 49] LinuxServer, [0000027CA9C09700][0000027CA9A2F300 49] LinuxAArch64Server, [0000027CA9B64700][0000027CA9A33480 49] Android, [0000027CA9C08C00][0000027CA9A37600 49] Android_Low, [0000027CA9B65A00][0000027CA9A3B780 49] Android_Mid, [0000027CA9C09200][0000027CA9A3F900 49] Android_High, [0000027CA9B66400][0000027CA9A43A80 49] Android_Default, [0000027CA9C09D00][0000027CA9A47C00 49] Android_Adreno4xx, [0000027CA9B66E00][0000027CA9A4A200 49] Android_Adreno5xx_Low, [0000027CA9C08B00][0000027CA9A4E380 49] Android_Adreno5xx, [0000027CA9B67400][0000027CA9A52500 49] Android_Adreno6xx, [0000027CA9C08500][0000027CA9A56680 49] Android_Adreno6xx_Vulkan, [0000027CA9B67800][0000027CA9A5A800 49] Android_Mali_T6xx, [0000027CA9C08F00][0000027CA9A5E980 49] Android_Mali_T7xx, [0000027CA9B64400][0000027CA9A62B00 49] Android_Mali_T8xx, [0000027CA9C09800][0000027CA9A1EC40 49] Android_Mali_G71, [0000027CA9B64C00][0000027CA9A66D80 49] Android_Mali_G72, [0000027CA9C09400][0000027CA9A6AEC0 49] Android_Mali_G72_Vulkan, [0000027CA9B66200][0000027CA9A73040 49] Android_Mali_G76, [0000027CA9C09100][0000027CA9A771C0 49] Android_Mali_G76_Vulkan, [0000027CA9B65C00][0000027CA9A7B340 49] Android_Mali_G77, [0000027CA9C08D00][0000027CA9A7F4C0 49] Android_Mali_G77_Vulkan, [0000027CA9B1B200][0000027CA9A83640 49] Android_Mali_G78, [0000027CA9B2A700][0000027CA9A877C0 49] Android_Mali_G78_Vulkan, [0000027CA9B1BA00][0000027CA9A8B940 49] Android_Mali_G710, [0000027CA9B29200][0000027CAAAA1AC0 49] Android_Mali_G710_Vulkan, [0000027CA9B18100][0000027CAAAA40C0 49] Android_Vulkan_SM5, [0000027CA9B2B400][0000027CAAAA8240 49] Android_PowerVR_G6xxx, [0000027CA9B1A000][0000027CAAAAC3C0 49] Android_PowerVR_GT7xxx, [0000027CA9B2B000][0000027CAAAB0540 49] Android_PowerVR_GE8xxx, [0000027CA9B1AD00][0000027CAAAB46C0 49] Android_PowerVR_GM9xxx, [0000027CA9B2A200][0000027CAAAB8840 49] Android_PowerVR_GM9xxx_Vulkan, [0000027CA9B1B500][0000027CAAABC9C0 49] Android_TegraK1, [0000027CA9B29500][0000027CAAAC0B40 49] Android_Unknown_Vulkan, [0000027CA9B18800][0000027CAAAC4CC0 49] Lumin, [0000027CA9B29E00][0000027CA9A6EE00 49] Lumin_Desktop, [0000027CA9B1B300][0000027CAAAC8F40 49] HoloLens, 
+[2025.08.05-08.19.17:787][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2025.08.05-08.19.17:787][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2025.08.05-08.19.17:787][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2025.08.05-08.19.17:787][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2025.08.05-08.19.17:787][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2025.08.05-08.19.17:799][  0]LogNetVersion: Sterilizer 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 2279869714)
+[2025.08.05-08.19.18:095][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2025.08.05-08.19.18:141][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2025.08.05-08.19.18:145][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2025.08.05-08.19.18:145][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2025.08.05-08.19.18:145][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2025.08.05-08.19.18:826][  0]LogPython: Using Python 3.7.7
+[2025.08.05-08.19.19:186][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: AC15AE9B44B9B8C12BF0D8BECEE41064 | Instance: 516FC36E4030A5EC0D7DB7953E9463E8 (NEW-19176).
+[2025.08.05-08.19.19:229][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2025.08.05-08.19.20:442][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2025.08.05-08.19.20:797][  0]SourceControl: 源码管理已禁用
+[2025.08.05-08.19.20:797][  0]SourceControl: 源码管理已禁用
+[2025.08.05-08.19.20:800][  0]SourceControl: 源码管理已禁用
+[2025.08.05-08.19.20:803][  0]LogOpenImageDenoise: OIDN starting up
+[2025.08.05-08.19.20:814][  0]SourceControl: 源码管理已禁用
+[2025.08.05-08.19.20:820][  0]SourceControl: 源码管理已禁用
+[2025.08.05-08.19.20:825][  0]LogUProjectInfo: Found projects:
+[2025.08.05-08.19.20:832][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2025.08.05-08.19.20:833][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2025.08.05-08.19.20:833][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2025.08.05-08.19.20:867][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2025.08.05-08.19.20:888][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2025.08.05-08.19.20:888][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2025.08.05-08.19.20:985][  0]LogCollectionManager: Loaded 0 collections in 0.000472 seconds
+[2025.08.05-08.19.21:005][  0]LogFileCache: Scanning file cache for directory 'E:/F盘/上传官网/xdg-qh1/Saved/Collections/' took 0.00s
+[2025.08.05-08.19.21:005][  0]LogFileCache: Scanning file cache for directory 'E:/F盘/上传官网/xdg-qh1/Content/Developers/Administrator/Collections/' took 0.00s
+[2025.08.05-08.19.21:005][  0]LogFileCache: Scanning file cache for directory 'E:/F盘/上传官网/xdg-qh1/Content/Collections/' took 0.00s
+[2025.08.05-08.19.21:005][  0]LogOcInput: OculusInput pre-init called
+[2025.08.05-08.19.21:204][  0]LogEngine: Initializing Engine...
+[2025.08.05-08.19.21:207][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2025.08.05-08.19.21:207][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2025.08.05-08.19.21:207][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2025.08.05-08.19.21:208][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2025.08.05-08.19.21:342][  0]LogInit: Initializing FReadOnlyCVARCache
+[2025.08.05-08.19.21:350][  0]LogAIModule: Creating AISystem for world Untitled
+[2025.08.05-08.19.21:373][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2025.08.05-08.19.21:376][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2025.08.05-08.19.21:377][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2025.08.05-08.19.21:377][  0]LogAudio: Display: Audio Device Manager Initialized
+[2025.08.05-08.19.21:377][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2025.08.05-08.19.21:377][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.05-08.19.21:377][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.05-08.19.21:377][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.05-08.19.21:377][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.05-08.19.21:377][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.08.05-08.19.21:377][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.05-08.19.21:377][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.08.05-08.19.21:377][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.05-08.19.21:378][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.05-08.19.21:378][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.05-08.19.21:378][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.05-08.19.21:378][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2025.08.05-08.19.21:390][  0]LogAudioMixer: Display: 0: FrontLeft
+[2025.08.05-08.19.21:390][  0]LogAudioMixer: Display: 1: FrontRight
+[2025.08.05-08.19.21:413][  0]LogAudioMixer: Display: Using Audio Device DELL E1914H (NVIDIA High Definition Audio)
+[2025.08.05-08.19.21:417][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.05-08.19.21:419][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.05-08.19.21:419][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.05-08.19.21:420][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.08.05-08.19.21:420][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2025.08.05-08.19.21:420][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2025.08.05-08.19.21:421][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2025.08.05-08.19.21:421][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2025.08.05-08.19.21:421][  0]LogInit: FAudioDevice initialized.
+[2025.08.05-08.19.21:421][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2025.08.05-08.19.21:421][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2025.08.05-08.19.21:507][  0]LogDerivedDataCache: Saved boot cache 0.09s 129MB C:/Users/Administrator/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2025.08.05-08.19.21:510][  0]LogInit: Texture streaming: Enabled
+[2025.08.05-08.19.21:520][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2025.08.05-08.19.21:524][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2025.08.05-08.19.21:524][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2025.08.05-08.19.21:526][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2025.08.05-08.19.21:538][  0]LogInit: Transaction tracking system initialized
+[2025.08.05-08.19.21:557][  0]BlueprintLog: New page: 编辑器加载
+[2025.08.05-08.19.21:609][  0]LocalizationService: 本地化服务已禁用
+[2025.08.05-08.19.21:628][  0]TimingProfiler: Initialize
+[2025.08.05-08.19.21:628][  0]TimingProfiler: OnSessionChanged
+[2025.08.05-08.19.21:628][  0]LoadingProfiler: Initialize
+[2025.08.05-08.19.21:628][  0]LoadingProfiler: OnSessionChanged
+[2025.08.05-08.19.21:629][  0]NetworkingProfiler: Initialize
+[2025.08.05-08.19.21:629][  0]NetworkingProfiler: OnSessionChanged
+[2025.08.05-08.19.21:629][  0]MemoryProfiler: Initialize
+[2025.08.05-08.19.21:629][  0]MemoryProfiler: OnSessionChanged
+[2025.08.05-08.19.21:807][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2025.08.05-08.19.21:807][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2025.08.05-08.19.21:808][  0]LogVSAccessor: Display: Unable to create Visual Studio setup instance: 80040154
+[2025.08.05-08.19.21:876][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2025.08.05-08.19.21:876][  0]LogCook: Display: Mobile HDR setting 1
+[2025.08.05-08.19.22:034][  0]LogFileCache: Scanning file cache for directory 'E:/F盘/上传官网/xdg-qh1/Content/' took 0.12s
+[2025.08.05-08.19.22:185][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2025.08.05-08.19.22:189][  0]SourceControl: 源码管理已禁用
+[2025.08.05-08.19.22:189][  0]LogUnrealEdMisc: Loading editor; pre map load, took 7.861
+[2025.08.05-08.19.22:189][  0]Cmd: MAP LOAD FILE="E:/F盘/上传官网/xdg-qh1/Content/Sterilizer/Map/model.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2025.08.05-08.19.22:189][  0]LightingResults: New page: 光照构建
+[2025.08.05-08.19.22:190][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.08.05-08.19.22:190][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.08.05-08.19.22:190][  0]MapCheck: New page: 地图检测
+[2025.08.05-08.19.22:190][  0]LightingResults: New page: 光照构建
+[2025.08.05-08.19.28:547][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.08.05-08.19.28:550][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.08.05-08.19.36:363][  0]LogTexture: Display: 正在编译纹理：T_zz06065060（BGRA8、158X87）
+[2025.08.05-08.19.36:363][  0]LogTexture: Display: 正在编译纹理：T_002（OODLE_AutoDXT、2048X256）
+[2025.08.05-08.19.36:363][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 256 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2025.08.05-08.19.36:363][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 128 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2025.08.05-08.19.36:363][  0]LogTexture: Display: 正在编译纹理：T_001（BGRA8、554X1464）
+[2025.08.05-08.19.36:363][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc186……
+[2025.08.05-08.19.40:039][  0]LogTexture: Display: 正在编译纹理：HQ_Lightmap0_4（BGRA8、1024X1024）
+[2025.08.05-08.19.40:039][  0]LogTexture: Display: 正在编译纹理：HQ_Lightmap1_2（BGRA8、1024X1024）
+[2025.08.05-08.19.40:039][  0]LogTexture: Display: 正在编译纹理：NewReflectionComponentTextureD81F9BB042E1DE8F76AE74A3F221257E（BGRA8、128X128）
+[2025.08.05-08.19.40:925][  0]LogTexture: Display: 正在编译纹理：HQ_Lightmap1_3（BGRA8、1024X1024）
+[2025.08.05-08.19.40:925][  0]LogTexture: Display: 正在编译纹理：ShadowMapTexture2D_1（BGRA8、1024X256）
+[2025.08.05-08.19.40:925][  0]LogTexture: Display: 正在编译纹理：HQ_Lightmap1_1（BGRA8、1024X1024）
+[2025.08.05-08.19.40:925][  0]LogStaticMesh: Built static mesh [4.56s] /Game/Sterilizer/Mesh/SM_Decoc186.SM_Decoc186
+[2025.08.05-08.19.40:974][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc185……
+[2025.08.05-08.19.42:599][  0]LogTexture: Display: 正在编译纹理：LQ_Lightmap_1_2（BGRA8、1024X1024）
+[2025.08.05-08.19.42:599][  0]LogTexture: Display: 正在编译纹理：LQ_Lightmap_0_4（BGRA8、1024X1024）
+[2025.08.05-08.19.42:599][  0]LogTexture: Display: 正在编译纹理：LQ_Lightmap_1_1（BGRA8、1024X1024）
+[2025.08.05-08.19.42:599][  0]LogTexture: Display: 正在编译纹理：LQ_Lightmap_1_3（BGRA8、1024X1024）
+[2025.08.05-08.19.43:455][  0]LogStaticMesh: Built static mesh [2.48s] /Game/Sterilizer/Mesh/SM_Decoc185.SM_Decoc185
+[2025.08.05-08.19.43:503][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc184……
+[2025.08.05-08.19.45:680][  0]LogStaticMesh: Built static mesh [2.18s] /Game/Sterilizer/Mesh/SM_Decoc184.SM_Decoc184
+[2025.08.05-08.19.45:730][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc180……
+[2025.08.05-08.19.46:550][  0]LogStaticMesh: Built static mesh [0.82s] /Game/Sterilizer/Mesh/SM_Decoc180.SM_Decoc180
+[2025.08.05-08.19.46:591][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc183……
+[2025.08.05-08.19.48:646][  0]LogStaticMesh: Built static mesh [2.05s] /Game/Sterilizer/Mesh/SM_Decoc183.SM_Decoc183
+[2025.08.05-08.19.48:696][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc182……
+[2025.08.05-08.19.49:602][  0]LogTexture: Display: 正在编译纹理：T_Oven_Chicken_Chicken_Dif（OODLE_AutoDXT、8192X8192）
+[2025.08.05-08.19.50:772][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2025.08.05-08.19.50:772][  0]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2025.08.05-08.19.50:772][  0]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2025.08.05-08.19.50:772][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2025.08.05-08.19.50:894][  0]LogStaticMesh: Built static mesh [2.20s] /Game/Sterilizer/Mesh/SM_Decoc182.SM_Decoc182
+[2025.08.05-08.19.50:952][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc181……
+[2025.08.05-08.19.51:811][  0]LogStaticMesh: Built static mesh [0.86s] /Game/Sterilizer/Mesh/SM_Decoc181.SM_Decoc181
+[2025.08.05-08.19.51:937][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc169……
+[2025.08.05-08.19.53:464][  0]LogStaticMesh: Built static mesh [1.53s] /Game/Sterilizer/Mesh/SM_Decoc169.SM_Decoc169
+[2025.08.05-08.19.53:496][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc168……
+[2025.08.05-08.19.54:998][  0]LogTexture: Display: 正在编译纹理：T_Chicken（OODLE_BC5、8192X8192）
+[2025.08.05-08.19.54:999][  0]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2025.08.05-08.19.54:999][  0]LogTextureFormatOodle: Display: non-RDO encode 8192 x 8192 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2025.08.05-08.19.54:999][  0]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2025.08.05-08.19.54:999][  0]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2025.08.05-08.19.54:999][  0]LogStaticMesh: Built static mesh [1.50s] /Game/Sterilizer/Mesh/SM_Decoc168.SM_Decoc168
+[2025.08.05-08.19.55:028][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc167……
+[2025.08.05-08.19.56:040][  0]LogStaticMesh: Built static mesh [1.01s] /Game/Sterilizer/Mesh/SM_Decoc167.SM_Decoc167
+[2025.08.05-08.19.56:068][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc166……
+[2025.08.05-08.19.57:122][  0]LogStaticMesh: Built static mesh [1.05s] /Game/Sterilizer/Mesh/SM_Decoc166.SM_Decoc166
+[2025.08.05-08.19.57:184][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc164……
+[2025.08.05-08.19.57:974][  0]LogStaticMesh: Built static mesh [0.79s] /Game/Sterilizer/Mesh/SM_Decoc164.SM_Decoc164
+[2025.08.05-08.19.58:002][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc155……
+[2025.08.05-08.19.59:316][  0]LogStaticMesh: Built static mesh [1.31s] /Game/Sterilizer/Mesh/SM_Decoc155.SM_Decoc155
+[2025.08.05-08.19.59:378][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc153……
+[2025.08.05-08.19.59:723][  0]LogStaticMesh: Built static mesh [0.34s] /Game/Sterilizer/Mesh/SM_Decoc153.SM_Decoc153
+[2025.08.05-08.19.59:749][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc148……
+[2025.08.05-08.20.00:200][  0]LogStaticMesh: Built static mesh [0.45s] /Game/Sterilizer/Mesh/SM_Decoc148.SM_Decoc148
+[2025.08.05-08.20.00:227][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc146……
+[2025.08.05-08.20.00:512][  0]LogStaticMesh: Built static mesh [0.29s] /Game/Sterilizer/Mesh/SM_Decoc146.SM_Decoc146
+[2025.08.05-08.20.00:552][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc143……
+[2025.08.05-08.20.01:095][  0]LogStaticMesh: Built static mesh [0.54s] /Game/Sterilizer/Mesh/SM_Decoc143.SM_Decoc143
+[2025.08.05-08.20.01:107][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc142……
+[2025.08.05-08.20.01:393][  0]LogStaticMesh: Built static mesh [0.29s] /Game/Sterilizer/Mesh/SM_Decoc142.SM_Decoc142
+[2025.08.05-08.20.01:417][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc140……
+[2025.08.05-08.20.02:104][  0]LogStaticMesh: Built static mesh [0.69s] /Game/Sterilizer/Mesh/SM_Decoc140.SM_Decoc140
+[2025.08.05-08.20.02:116][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc139……
+[2025.08.05-08.20.02:670][  0]LogStaticMesh: Built static mesh [0.56s] /Game/Sterilizer/Mesh/SM_Decoc139.SM_Decoc139
+[2025.08.05-08.20.02:698][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc137……
+[2025.08.05-08.20.03:064][  0]LogStaticMesh: Built static mesh [0.37s] /Game/Sterilizer/Mesh/SM_Decoc137.SM_Decoc137
+[2025.08.05-08.20.03:563][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc101……
+[2025.08.05-08.20.04:087][  0]LogStaticMesh: Built static mesh [0.52s] /Game/Sterilizer/Mesh/SM_Decoc101.SM_Decoc101
+[2025.08.05-08.20.04:101][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc100……
+[2025.08.05-08.20.04:389][  0]LogStaticMesh: Built static mesh [0.29s] /Game/Sterilizer/Mesh/SM_Decoc100.SM_Decoc100
+[2025.08.05-08.20.04:434][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc097……
+[2025.08.05-08.20.04:987][  0]LogStaticMesh: Built static mesh [0.55s] /Game/Sterilizer/Mesh/SM_Decoc097.SM_Decoc097
+[2025.08.05-08.20.04:999][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc096……
+[2025.08.05-08.20.05:286][  0]LogStaticMesh: Built static mesh [0.29s] /Game/Sterilizer/Mesh/SM_Decoc096.SM_Decoc096
+[2025.08.05-08.20.05:341][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc092……
+[2025.08.05-08.20.05:618][  0]LogStaticMesh: Built static mesh [0.28s] /Game/Sterilizer/Mesh/SM_Decoc092.SM_Decoc092
+[2025.08.05-08.20.05:687][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc087……
+[2025.08.05-08.20.05:980][  0]LogStaticMesh: Built static mesh [0.29s] /Game/Sterilizer/Mesh/SM_Decoc087.SM_Decoc087
+[2025.08.05-08.20.05:993][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc086……
+[2025.08.05-08.20.06:327][  0]LogStaticMesh: Built static mesh [0.33s] /Game/Sterilizer/Mesh/SM_Decoc086.SM_Decoc086
+[2025.08.05-08.20.06:373][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc083……
+[2025.08.05-08.20.06:772][  0]LogStaticMesh: Built static mesh [0.40s] /Game/Sterilizer/Mesh/SM_Decoc083.SM_Decoc083
+[2025.08.05-08.20.06:784][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc151……
+[2025.08.05-08.20.07:324][  0]LogStaticMesh: Built static mesh [0.54s] /Game/Sterilizer/Mesh/SM_Decoc151.SM_Decoc151
+[2025.08.05-08.20.07:350][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc149……
+[2025.08.05-08.20.07:628][  0]LogStaticMesh: Built static mesh [0.28s] /Game/Sterilizer/Mesh/SM_Decoc149.SM_Decoc149
+[2025.08.05-08.20.07:641][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc079……
+[2025.08.05-08.20.08:229][  0]LogStaticMesh: Built static mesh [0.59s] /Game/Sterilizer/Mesh/SM_Decoc079.SM_Decoc079
+[2025.08.05-08.20.08:255][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc077……
+[2025.08.05-08.20.08:540][  0]LogStaticMesh: Built static mesh [0.29s] /Game/Sterilizer/Mesh/SM_Decoc077.SM_Decoc077
+[2025.08.05-08.20.08:552][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc082……
+[2025.08.05-08.20.08:879][  0]LogStaticMesh: Built static mesh [0.33s] /Game/Sterilizer/Mesh/SM_Decoc082.SM_Decoc082
+[2025.08.05-08.20.08:919][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc076……
+[2025.08.05-08.20.10:277][  0]LogStaticMesh: Built static mesh [1.36s] /Game/Sterilizer/Mesh/SM_Decoc076.SM_Decoc076
+[2025.08.05-08.20.10:326][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc075……
+[2025.08.05-08.20.11:708][  0]LogStaticMesh: Built static mesh [1.38s] /Game/Sterilizer/Mesh/SM_Decoc075.SM_Decoc075
+[2025.08.05-08.20.11:756][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc074……
+[2025.08.05-08.20.13:263][  0]LogStaticMesh: Built static mesh [1.51s] /Game/Sterilizer/Mesh/SM_Decoc074.SM_Decoc074
+[2025.08.05-08.20.13:310][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc073……
+[2025.08.05-08.20.14:622][  0]LogStaticMesh: Built static mesh [1.31s] /Game/Sterilizer/Mesh/SM_Decoc073.SM_Decoc073
+[2025.08.05-08.20.14:671][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc072……
+[2025.08.05-08.20.16:602][  0]LogStaticMesh: Built static mesh [1.93s] /Game/Sterilizer/Mesh/SM_Decoc072.SM_Decoc072
+[2025.08.05-08.20.16:651][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc071……
+[2025.08.05-08.20.17:771][  0]LogStaticMesh: Built static mesh [1.12s] /Game/Sterilizer/Mesh/SM_Decoc071.SM_Decoc071
+[2025.08.05-08.20.17:819][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc070……
+[2025.08.05-08.20.19:360][  0]LogStaticMesh: Built static mesh [1.54s] /Game/Sterilizer/Mesh/SM_Decoc070.SM_Decoc070
+[2025.08.05-08.20.19:408][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc069……
+[2025.08.05-08.20.21:001][  0]LogStaticMesh: Built static mesh [1.59s] /Game/Sterilizer/Mesh/SM_Decoc069.SM_Decoc069
+[2025.08.05-08.20.21:050][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc068……
+[2025.08.05-08.20.22:132][  0]LogStaticMesh: Built static mesh [1.08s] /Game/Sterilizer/Mesh/SM_Decoc068.SM_Decoc068
+[2025.08.05-08.20.22:152][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc064……
+[2025.08.05-08.20.23:179][  0]LogStaticMesh: Built static mesh [1.03s] /Game/Sterilizer/Mesh/SM_Decoc064.SM_Decoc064
+[2025.08.05-08.20.23:222][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc062……
+[2025.08.05-08.20.24:141][  0]LogStaticMesh: Built static mesh [0.92s] /Game/Sterilizer/Mesh/SM_Decoc062.SM_Decoc062
+[2025.08.05-08.20.24:162][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc067……
+[2025.08.05-08.20.24:913][  0]LogStaticMesh: Built static mesh [0.75s] /Game/Sterilizer/Mesh/SM_Decoc067.SM_Decoc067
+[2025.08.05-08.20.24:933][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc066……
+[2025.08.05-08.20.26:111][  0]LogStaticMesh: Built static mesh [1.18s] /Game/Sterilizer/Mesh/SM_Decoc066.SM_Decoc066
+[2025.08.05-08.20.26:131][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc065……
+[2025.08.05-08.20.27:179][  0]LogStaticMesh: Built static mesh [1.05s] /Game/Sterilizer/Mesh/SM_Decoc065.SM_Decoc065
+[2025.08.05-08.20.27:279][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc058……
+[2025.08.05-08.20.28:330][  0]LogStaticMesh: Built static mesh [1.05s] /Game/Sterilizer/Mesh/SM_Decoc058.SM_Decoc058
+[2025.08.05-08.20.28:351][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc057……
+[2025.08.05-08.20.29:563][  0]LogStaticMesh: Built static mesh [1.21s] /Game/Sterilizer/Mesh/SM_Decoc057.SM_Decoc057
+[2025.08.05-08.20.29:585][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc056……
+[2025.08.05-08.20.30:590][  0]LogStaticMesh: Built static mesh [1.01s] /Game/Sterilizer/Mesh/SM_Decoc056.SM_Decoc056
+[2025.08.05-08.20.30:610][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc055……
+[2025.08.05-08.20.31:510][  0]LogStaticMesh: Built static mesh [0.90s] /Game/Sterilizer/Mesh/SM_Decoc055.SM_Decoc055
+[2025.08.05-08.20.31:530][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc054……
+[2025.08.05-08.20.32:550][  0]LogStaticMesh: Built static mesh [1.02s] /Game/Sterilizer/Mesh/SM_Decoc054.SM_Decoc054
+[2025.08.05-08.20.32:671][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc049……
+[2025.08.05-08.20.33:159][  0]LogStaticMesh: Built static mesh [0.49s] /Game/Sterilizer/Mesh/SM_Decoc049.SM_Decoc049
+[2025.08.05-08.20.33:173][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc048……
+[2025.08.05-08.20.33:574][  0]LogStaticMesh: Built static mesh [0.40s] /Game/Sterilizer/Mesh/SM_Decoc048.SM_Decoc048
+[2025.08.05-08.20.33:587][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc047……
+[2025.08.05-08.20.33:887][  0]LogStaticMesh: Built static mesh [0.30s] /Game/Sterilizer/Mesh/SM_Decoc047.SM_Decoc047
+[2025.08.05-08.20.33:900][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc046……
+[2025.08.05-08.20.34:347][  0]LogStaticMesh: Built static mesh [0.45s] /Game/Sterilizer/Mesh/SM_Decoc046.SM_Decoc046
+[2025.08.05-08.20.34:359][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc045……
+[2025.08.05-08.20.35:039][  0]LogStaticMesh: Built static mesh [0.68s] /Game/Sterilizer/Mesh/SM_Decoc045.SM_Decoc045
+[2025.08.05-08.20.35:052][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc044……
+[2025.08.05-08.20.35:452][  0]LogStaticMesh: Built static mesh [0.40s] /Game/Sterilizer/Mesh/SM_Decoc044.SM_Decoc044
+[2025.08.05-08.20.35:465][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc043……
+[2025.08.05-08.20.35:761][  0]LogStaticMesh: Built static mesh [0.30s] /Game/Sterilizer/Mesh/SM_Decoc043.SM_Decoc043
+[2025.08.05-08.20.35:774][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc042……
+[2025.08.05-08.20.36:236][  0]LogStaticMesh: Built static mesh [0.46s] /Game/Sterilizer/Mesh/SM_Decoc042.SM_Decoc042
+[2025.08.05-08.20.36:248][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc041……
+[2025.08.05-08.20.36:788][  0]LogStaticMesh: Built static mesh [0.54s] /Game/Sterilizer/Mesh/SM_Decoc041.SM_Decoc041
+[2025.08.05-08.20.36:801][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc040……
+[2025.08.05-08.20.37:095][  0]LogStaticMesh: Built static mesh [0.29s] /Game/Sterilizer/Mesh/SM_Decoc040.SM_Decoc040
+[2025.08.05-08.20.37:123][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc038……
+[2025.08.05-08.20.37:588][  0]LogStaticMesh: Built static mesh [0.46s] /Game/Sterilizer/Mesh/SM_Decoc038.SM_Decoc038
+[2025.08.05-08.20.37:601][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc036……
+[2025.08.05-08.20.37:901][  0]LogStaticMesh: Built static mesh [0.30s] /Game/Sterilizer/Mesh/SM_Decoc036.SM_Decoc036
+[2025.08.05-08.20.37:913][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc035……
+[2025.08.05-08.20.38:343][  0]LogStaticMesh: Built static mesh [0.43s] /Game/Sterilizer/Mesh/SM_Decoc035.SM_Decoc035
+[2025.08.05-08.20.38:356][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc034……
+[2025.08.05-08.20.38:894][  0]LogStaticMesh: Built static mesh [0.54s] /Game/Sterilizer/Mesh/SM_Decoc034.SM_Decoc034
+[2025.08.05-08.20.38:920][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc032……
+[2025.08.05-08.20.39:223][  0]LogStaticMesh: Built static mesh [0.30s] /Game/Sterilizer/Mesh/SM_Decoc032.SM_Decoc032
+[2025.08.05-08.20.39:235][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc031……
+[2025.08.05-08.20.39:715][  0]LogStaticMesh: Built static mesh [0.48s] /Game/Sterilizer/Mesh/SM_Decoc031.SM_Decoc031
+[2025.08.05-08.20.39:727][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc030……
+[2025.08.05-08.20.40:260][  0]LogStaticMesh: Built static mesh [0.53s] /Game/Sterilizer/Mesh/SM_Decoc030.SM_Decoc030
+[2025.08.05-08.20.40:272][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc029……
+[2025.08.05-08.20.40:583][  0]LogStaticMesh: Built static mesh [0.31s] /Game/Sterilizer/Mesh/SM_Decoc029.SM_Decoc029
+[2025.08.05-08.20.40:596][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc028……
+[2025.08.05-08.20.40:887][  0]LogStaticMesh: Built static mesh [0.29s] /Game/Sterilizer/Mesh/SM_Decoc028.SM_Decoc028
+[2025.08.05-08.20.40:899][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc027……
+[2025.08.05-08.20.41:286][  0]LogStaticMesh: Built static mesh [0.39s] /Game/Sterilizer/Mesh/SM_Decoc027.SM_Decoc027
+[2025.08.05-08.20.41:298][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc026……
+[2025.08.05-08.20.41:846][  0]LogStaticMesh: Built static mesh [0.55s] /Game/Sterilizer/Mesh/SM_Decoc026.SM_Decoc026
+[2025.08.05-08.20.41:859][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc025……
+[2025.08.05-08.20.42:165][  0]LogStaticMesh: Built static mesh [0.31s] /Game/Sterilizer/Mesh/SM_Decoc025.SM_Decoc025
+[2025.08.05-08.20.42:177][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc024……
+[2025.08.05-08.20.42:463][  0]LogStaticMesh: Built static mesh [0.29s] /Game/Sterilizer/Mesh/SM_Decoc024.SM_Decoc024
+[2025.08.05-08.20.42:476][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc023……
+[2025.08.05-08.20.42:974][  0]LogStaticMesh: Built static mesh [0.50s] /Game/Sterilizer/Mesh/SM_Decoc023.SM_Decoc023
+[2025.08.05-08.20.42:987][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc022……
+[2025.08.05-08.20.43:521][  0]LogStaticMesh: Built static mesh [0.53s] /Game/Sterilizer/Mesh/SM_Decoc022.SM_Decoc022
+[2025.08.05-08.20.43:533][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc021……
+[2025.08.05-08.20.43:832][  0]LogStaticMesh: Built static mesh [0.30s] /Game/Sterilizer/Mesh/SM_Decoc021.SM_Decoc021
+[2025.08.05-08.20.43:845][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc020……
+[2025.08.05-08.20.44:375][  0]LogStaticMesh: Built static mesh [0.53s] /Game/Sterilizer/Mesh/SM_Decoc020.SM_Decoc020
+[2025.08.05-08.20.44:401][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc018……
+[2025.08.05-08.20.44:686][  0]LogStaticMesh: Built static mesh [0.28s] /Game/Sterilizer/Mesh/SM_Decoc018.SM_Decoc018
+[2025.08.05-08.20.44:699][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc017……
+[2025.08.05-08.20.46:432][  0]LogStaticMesh: Built static mesh [1.73s] /Game/Sterilizer/Mesh/SM_Decoc017.SM_Decoc017
+[2025.08.05-08.20.46:482][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc016……
+[2025.08.05-08.20.47:671][  0]LogStaticMesh: Built static mesh [1.19s] /Game/Sterilizer/Mesh/SM_Decoc016.SM_Decoc016
+[2025.08.05-08.20.47:724][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc015……
+[2025.08.05-08.20.49:317][  0]LogStaticMesh: Built static mesh [1.59s] /Game/Sterilizer/Mesh/SM_Decoc015.SM_Decoc015
+[2025.08.05-08.20.49:367][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc014……
+[2025.08.05-08.20.51:206][  0]LogStaticMesh: Built static mesh [1.84s] /Game/Sterilizer/Mesh/SM_Decoc014.SM_Decoc014
+[2025.08.05-08.20.51:256][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc013……
+[2025.08.05-08.20.52:929][  0]LogStaticMesh: Built static mesh [1.67s] /Game/Sterilizer/Mesh/SM_Decoc013.SM_Decoc013
+[2025.08.05-08.20.52:979][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc012……
+[2025.08.05-08.20.54:310][  0]LogStaticMesh: Built static mesh [1.33s] /Game/Sterilizer/Mesh/SM_Decoc012.SM_Decoc012
+[2025.08.05-08.20.54:359][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc011……
+[2025.08.05-08.20.56:115][  0]LogStaticMesh: Built static mesh [1.76s] /Game/Sterilizer/Mesh/SM_Decoc011.SM_Decoc011
+[2025.08.05-08.20.56:164][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc010……
+[2025.08.05-08.20.57:441][  0]LogStaticMesh: Built static mesh [1.28s] /Game/Sterilizer/Mesh/SM_Decoc010.SM_Decoc010
+[2025.08.05-08.20.57:492][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc009……
+[2025.08.05-08.20.59:103][  0]LogStaticMesh: Built static mesh [1.61s] /Game/Sterilizer/Mesh/SM_Decoc009.SM_Decoc009
+[2025.08.05-08.20.59:153][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc008……
+[2025.08.05-08.21.00:315][  0]LogStaticMesh: Built static mesh [1.16s] /Game/Sterilizer/Mesh/SM_Decoc008.SM_Decoc008
+[2025.08.05-08.21.00:365][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc007……
+[2025.08.05-08.21.02:080][  0]LogStaticMesh: Built static mesh [1.72s] /Game/Sterilizer/Mesh/SM_Decoc007.SM_Decoc007
+[2025.08.05-08.21.02:130][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc006……
+[2025.08.05-08.21.03:586][  0]LogStaticMesh: Built static mesh [1.46s] /Game/Sterilizer/Mesh/SM_Decoc006.SM_Decoc006
+[2025.08.05-08.21.03:636][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc005……
+[2025.08.05-08.21.04:323][  0]LogStaticMesh: Built static mesh [0.69s] /Game/Sterilizer/Mesh/SM_Decoc005.SM_Decoc005
+[2025.08.05-08.21.04:351][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc004……
+[2025.08.05-08.21.05:431][  0]LogStaticMesh: Built static mesh [1.08s] /Game/Sterilizer/Mesh/SM_Decoc004.SM_Decoc004
+[2025.08.05-08.21.05:518][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc001……
+[2025.08.05-08.21.06:391][  0]LogStaticMesh: Built static mesh [0.87s] /Game/Sterilizer/Mesh/SM_Decoc001.SM_Decoc001
+[2025.08.05-08.21.06:420][  0]LogStaticMesh: 正在构建静态网格体SM_Deco_54……
+[2025.08.05-08.21.06:599][  0]LogStaticMesh: Built static mesh [0.18s] /Game/Sterilizer/Mesh/SM_Deco_54.SM_Deco_54
+[2025.08.05-08.21.06:617][  0]LogStaticMesh: 正在构建静态网格体SM_Deco_53……
+[2025.08.05-08.21.06:697][  0]LogStaticMesh: Built static mesh [0.08s] /Game/Sterilizer/Mesh/SM_Deco_53.SM_Deco_53
+[2025.08.05-08.21.06:701][  0]LogStaticMesh: 正在构建静态网格体SM_Deco_52……
+[2025.08.05-08.21.06:827][  0]LogStaticMesh: Built static mesh [0.13s] /Game/Sterilizer/Mesh/SM_Deco_52.SM_Deco_52
+[2025.08.05-08.21.06:830][  0]LogStaticMesh: 正在构建静态网格体SM_Deco_51……
+[2025.08.05-08.21.07:009][  0]LogStaticMesh: Built static mesh [0.18s] /Game/Sterilizer/Mesh/SM_Deco_51.SM_Deco_51
+[2025.08.05-08.21.07:012][  0]LogStaticMesh: 正在构建静态网格体SM_Deco_50……
+[2025.08.05-08.21.07:090][  0]LogStaticMesh: Built static mesh [0.08s] /Game/Sterilizer/Mesh/SM_Deco_50.SM_Deco_50
+[2025.08.05-08.21.07:093][  0]LogStaticMesh: 正在构建静态网格体SM_Deco_49……
+[2025.08.05-08.21.07:236][  0]LogStaticMesh: Built static mesh [0.14s] /Game/Sterilizer/Mesh/SM_Deco_49.SM_Deco_49
+[2025.08.05-08.21.07:239][  0]LogStaticMesh: 正在构建静态网格体SM_Deco_48……
+[2025.08.05-08.21.07:317][  0]LogStaticMesh: Built static mesh [0.08s] /Game/Sterilizer/Mesh/SM_Deco_48.SM_Deco_48
+[2025.08.05-08.21.07:320][  0]LogStaticMesh: 正在构建静态网格体SM_Deco_47……
+[2025.08.05-08.21.07:396][  0]LogStaticMesh: Built static mesh [0.08s] /Game/Sterilizer/Mesh/SM_Deco_47.SM_Deco_47
+[2025.08.05-08.21.07:399][  0]LogStaticMesh: 正在构建静态网格体SM_Deco_46……
+[2025.08.05-08.21.07:479][  0]LogStaticMesh: Built static mesh [0.08s] /Game/Sterilizer/Mesh/SM_Deco_46.SM_Deco_46
+[2025.08.05-08.21.07:482][  0]LogStaticMesh: 正在构建静态网格体SM_Deco_45……
+[2025.08.05-08.21.07:629][  0]LogStaticMesh: Built static mesh [0.15s] /Game/Sterilizer/Mesh/SM_Deco_45.SM_Deco_45
+[2025.08.05-08.21.07:632][  0]LogStaticMesh: 正在构建静态网格体SM_Deco_44……
+[2025.08.05-08.21.07:714][  0]LogStaticMesh: Built static mesh [0.08s] /Game/Sterilizer/Mesh/SM_Deco_44.SM_Deco_44
+[2025.08.05-08.21.07:717][  0]LogStaticMesh: 正在构建静态网格体SM_Deco_43……
+[2025.08.05-08.21.07:795][  0]LogStaticMesh: Built static mesh [0.08s] /Game/Sterilizer/Mesh/SM_Deco_43.SM_Deco_43
+[2025.08.05-08.21.07:798][  0]LogStaticMesh: 正在构建静态网格体SM_Deco_42……
+[2025.08.05-08.21.18:213][  0]LogStaticMesh: Built static mesh [10.41s] /Game/Sterilizer/Mesh/SM_Deco_42.SM_Deco_42
+[2025.08.05-08.21.18:375][  0]LogStaticMesh: 正在构建静态网格体SM_Deco_40……
+[2025.08.05-08.21.36:578][  0]LogStaticMesh: Built static mesh [18.20s] /Game/Sterilizer/Mesh/SM_Deco_40.SM_Deco_40
+[2025.08.05-08.21.36:712][  0]LogStaticMesh: 正在构建静态网格体SM_Deco_38……
+[2025.08.05-08.21.37:192][  0]LogStaticMesh: Built static mesh [0.48s] /Game/Sterilizer/Mesh/SM_Deco_38.SM_Deco_38
+[2025.08.05-08.21.37:216][  0]LogStaticMesh: 正在构建静态网格体SM_Deco_36……
+[2025.08.05-08.21.37:601][  0]LogStaticMesh: Built static mesh [0.39s] /Game/Sterilizer/Mesh/SM_Deco_36.SM_Deco_36
+[2025.08.05-08.21.37:649][  0]LogStaticMesh: 正在构建静态网格体SM_Deco_32……
+[2025.08.05-08.21.38:402][  0]LogStaticMesh: Built static mesh [0.75s] /Game/Sterilizer/Mesh/SM_Deco_32.SM_Deco_32
+[2025.08.05-08.21.38:415][  0]LogStaticMesh: 正在构建静态网格体SM_Deco_31……
+[2025.08.05-08.21.39:098][  0]LogStaticMesh: Built static mesh [0.68s] /Game/Sterilizer/Mesh/SM_Deco_31.SM_Deco_31
+[2025.08.05-08.21.39:120][  0]LogStaticMesh: 正在构建静态网格体SM_Deco_29……
+[2025.08.05-08.21.39:490][  0]LogStaticMesh: Built static mesh [0.37s] /Game/Sterilizer/Mesh/SM_Deco_29.SM_Deco_29
+[2025.08.05-08.21.39:512][  0]LogStaticMesh: 正在构建静态网格体SM_Deco_27……
+[2025.08.05-08.21.40:118][  0]LogStaticMesh: Built static mesh [0.61s] /Game/Sterilizer/Mesh/SM_Deco_27.SM_Deco_27
+[2025.08.05-08.21.40:143][  0]LogStaticMesh: 正在构建静态网格体SM_Deco_25……
+[2025.08.05-08.21.43:414][  0]LogStaticMesh: Built static mesh [3.27s] /Game/Sterilizer/Mesh/SM_Deco_25.SM_Deco_25
+[2025.08.05-08.21.43:461][  0]LogStaticMesh: 正在构建静态网格体SM_Deco_15……
+[2025.08.05-08.21.43:563][  0]LogStaticMesh: Built static mesh [0.10s] /Game/Sterilizer/Mesh/SM_Deco_15.SM_Deco_15
+[2025.08.05-08.21.43:566][  0]LogStaticMesh: 正在构建静态网格体SM_Deco_14……
+[2025.08.05-08.21.43:665][  0]LogStaticMesh: Built static mesh [0.10s] /Game/Sterilizer/Mesh/SM_Deco_14.SM_Deco_14
+[2025.08.05-08.21.43:676][  0]LogStaticMesh: 正在构建静态网格体SM_Deco_11……
+[2025.08.05-08.21.43:771][  0]LogStaticMesh: Built static mesh [0.09s] /Game/Sterilizer/Mesh/SM_Deco_11.SM_Deco_11
+[2025.08.05-08.21.43:774][  0]LogStaticMesh: 正在构建静态网格体SM_Deco_10……
+[2025.08.05-08.21.43:875][  0]LogStaticMesh: Built static mesh [0.10s] /Game/Sterilizer/Mesh/SM_Deco_10.SM_Deco_10
+[2025.08.05-08.21.43:878][  0]LogStaticMesh: 正在构建静态网格体SM_Deco_09……
+[2025.08.05-08.21.45:641][  0]LogStaticMesh: Built static mesh [1.76s] /Game/Sterilizer/Mesh/SM_Deco_09.SM_Deco_09
+[2025.08.05-08.21.45:678][  0]LogStaticMesh: 正在构建静态网格体SM_Deco_08……
+[2025.08.05-08.21.47:587][  0]LogStaticMesh: Built static mesh [1.91s] /Game/Sterilizer/Mesh/SM_Deco_08.SM_Deco_08
+[2025.08.05-08.21.47:622][  0]LogStaticMesh: 正在构建静态网格体SM_Deco_07……
+[2025.08.05-08.21.49:282][  0]LogStaticMesh: Built static mesh [1.66s] /Game/Sterilizer/Mesh/SM_Deco_07.SM_Deco_07
+[2025.08.05-08.21.49:315][  0]LogStaticMesh: 正在构建静态网格体SM_Deco_06……
+[2025.08.05-08.21.51:405][  0]LogStaticMesh: Built static mesh [2.09s] /Game/Sterilizer/Mesh/SM_Deco_06.SM_Deco_06
+[2025.08.05-08.21.51:438][  0]LogStaticMesh: 正在构建静态网格体SM_Deco_05……
+[2025.08.05-08.21.51:540][  0]LogStaticMesh: Built static mesh [0.10s] /Game/Sterilizer/Mesh/SM_Deco_05.SM_Deco_05
+[2025.08.05-08.21.51:543][  0]LogStaticMesh: 正在构建静态网格体SM_Deco_04……
+[2025.08.05-08.21.51:636][  0]LogStaticMesh: Built static mesh [0.09s] /Game/Sterilizer/Mesh/SM_Deco_04.SM_Deco_04
+[2025.08.05-08.21.51:642][  0]LogStaticMesh: 正在构建静态网格体SM_Deco_02……
+[2025.08.05-08.21.52:162][  0]LogStaticMesh: Built static mesh [0.52s] /Game/Sterilizer/Mesh/SM_Deco_02.SM_Deco_02
+[2025.08.05-08.21.52:184][  0]LogStaticMesh: 正在构建静态网格体SM_Chicken_01……
+[2025.08.05-08.21.54:976][  0]LogStaticMesh: Built static mesh [2.79s] /Game/Sterilizer/Mesh/SM_Chicken_01.SM_Chicken_01
+[2025.08.05-08.21.55:082][  0]LogStaticMesh: 正在构建静态网格体SM_Window_Frame_01……
+[2025.08.05-08.21.55:256][  0]LogStaticMesh: Built static mesh [0.17s] /Game/Sterilizer/Demo/Mesh/SM_Window_Frame_01.SM_Window_Frame_01
+[2025.08.05-08.21.55:264][  0]LogStaticMesh: 正在构建静态网格体SM_Wall_Window_01……
+[2025.08.05-08.21.55:264][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Sterilizer/Demo/Mesh/SM_Wall_Window_01.SM_Wall_Window_01
+[2025.08.05-08.21.55:279][  0]LogStaticMesh: 正在构建静态网格体SM_Oven_12……
+[2025.08.05-08.22.07:921][  0]LogStaticMesh: Built static mesh [12.64s] /Game/Sterilizer/Mesh/SM_Oven_12.SM_Oven_12
+[2025.08.05-08.22.08:086][  0]LogStaticMesh: 正在构建静态网格体SM_Oven_11_LOD0……
+[2025.08.05-08.22.13:843][  0]LogStaticMesh: Built static mesh [5.76s] /Game/Sterilizer/Mesh/SM_Oven_11_LOD0.SM_Oven_11_LOD0
+[2025.08.05-08.22.13:919][  0]LogStaticMesh: 正在构建静态网格体SM_Oven_10……
+[2025.08.05-08.22.31:897][  0]LogStaticMesh: Built static mesh [17.98s] /Game/Sterilizer/Mesh/SM_Oven_10.SM_Oven_10
+[2025.08.05-08.22.32:257][  0]LogStaticMesh: 正在构建静态网格体SM_Oven_09……
+[2025.08.05-08.22.41:710][  0]LogStaticMesh: Built static mesh [9.45s] /Game/Sterilizer/Mesh/SM_Oven_09.SM_Oven_09
+[2025.08.05-08.22.41:959][  0]LogStaticMesh: 正在构建静态网格体SM_Oven_02……
+[2025.08.05-08.23.15:626][  0]LogStaticMesh: Built static mesh [33.67s] /Game/Sterilizer/Mesh/SM_Oven_02.SM_Oven_02
+[2025.08.05-08.23.16:049][  0]LogStaticMesh: 正在构建静态网格体SM_DisinfectionCabinet_06……
+[2025.08.05-08.23.33:705][  0]LogStaticMesh: Built static mesh [17.66s] /Game/Sterilizer/Mesh/SM_DisinfectionCabinet_06.SM_DisinfectionCabinet_06
+[2025.08.05-08.23.34:126][  0]LogStaticMesh: 正在构建静态网格体SM_Oven_01……
+[2025.08.05-08.23.42:328][  0]LogStaticMesh: Built static mesh [8.20s] /Game/Sterilizer/Mesh/SM_Oven_01.SM_Oven_01
+[2025.08.05-08.23.42:469][  0]LogStaticMesh: 正在构建静态网格体SM_DisinfectionCabinet_05……
+[2025.08.05-08.24.42:868][  0]LogStaticMesh: Built static mesh [60.40s] /Game/Sterilizer/Mesh/SM_DisinfectionCabinet_05.SM_DisinfectionCabinet_05
+[2025.08.05-08.24.43:336][  0]LogStaticMesh: 正在构建静态网格体SM_DisinfectionCabinet_04……
+[2025.08.05-08.25.54:259][  0]LogStaticMesh: Built static mesh [70.92s] /Game/Sterilizer/Mesh/SM_DisinfectionCabinet_04.SM_DisinfectionCabinet_04
+[2025.08.05-08.25.54:851][  0]LogStaticMesh: 正在构建静态网格体SM_DisinfectionCabinet_03……
+[2025.08.05-08.26.07:389][  0]LogStaticMesh: Built static mesh [12.54s] /Game/Sterilizer/Mesh/SM_DisinfectionCabinet_03.SM_DisinfectionCabinet_03
+[2025.08.05-08.26.07:514][  0]LogStaticMesh: 正在构建静态网格体SM_DisinfectionCabinet_01……
+[2025.08.05-08.26.23:944][  0]LogStaticMesh: Built static mesh [16.43s] /Game/Sterilizer/Mesh/SM_DisinfectionCabinet_01.SM_DisinfectionCabinet_01
+[2025.08.05-08.26.24:115][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc221……
+[2025.08.05-08.26.25:170][  0]LogStaticMesh: Built static mesh [1.06s] /Game/Sterilizer/Mesh/SM_Decoc221.SM_Decoc221
+[2025.08.05-08.26.25:191][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc220……
+[2025.08.05-08.26.26:345][  0]LogStaticMesh: Built static mesh [1.15s] /Game/Sterilizer/Mesh/SM_Decoc220.SM_Decoc220
+[2025.08.05-08.26.26:366][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc219……
+[2025.08.05-08.26.27:457][  0]LogStaticMesh: Built static mesh [1.09s] /Game/Sterilizer/Mesh/SM_Decoc219.SM_Decoc219
+[2025.08.05-08.26.27:500][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc217……
+[2025.08.05-08.26.28:695][  0]LogStaticMesh: Built static mesh [1.19s] /Game/Sterilizer/Mesh/SM_Decoc217.SM_Decoc217
+[2025.08.05-08.26.28:714][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc216……
+[2025.08.05-08.26.29:555][  0]LogStaticMesh: Built static mesh [0.84s] /Game/Sterilizer/Mesh/SM_Decoc216.SM_Decoc216
+[2025.08.05-08.26.29:576][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc215……
+[2025.08.05-08.26.30:750][  0]LogStaticMesh: Built static mesh [1.18s] /Game/Sterilizer/Mesh/SM_Decoc215.SM_Decoc215
+[2025.08.05-08.26.30:771][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc214……
+[2025.08.05-08.26.31:597][  0]LogStaticMesh: Built static mesh [0.83s] /Game/Sterilizer/Mesh/SM_Decoc214.SM_Decoc214
+[2025.08.05-08.26.31:642][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc212……
+[2025.08.05-08.26.32:354][  0]LogStaticMesh: Built static mesh [0.71s] /Game/Sterilizer/Mesh/SM_Decoc212.SM_Decoc212
+[2025.08.05-08.26.32:423][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc209……
+[2025.08.05-08.26.33:797][  0]LogStaticMesh: Built static mesh [1.37s] /Game/Sterilizer/Mesh/SM_Decoc209.SM_Decoc209
+[2025.08.05-08.26.33:889][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc205……
+[2025.08.05-08.26.36:074][  0]LogStaticMesh: Built static mesh [2.19s] /Game/Sterilizer/Mesh/SM_Decoc205.SM_Decoc205
+[2025.08.05-08.26.36:123][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc204……
+[2025.08.05-08.26.37:742][  0]LogStaticMesh: Built static mesh [1.62s] /Game/Sterilizer/Mesh/SM_Decoc204.SM_Decoc204
+[2025.08.05-08.26.37:793][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc203……
+[2025.08.05-08.26.39:194][  0]LogStaticMesh: Built static mesh [1.40s] /Game/Sterilizer/Mesh/SM_Decoc203.SM_Decoc203
+[2025.08.05-08.26.39:520][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc197……
+[2025.08.05-08.26.40:641][  0]LogStaticMesh: Built static mesh [1.12s] /Game/Sterilizer/Mesh/SM_Decoc197.SM_Decoc197
+[2025.08.05-08.26.40:687][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc196……
+[2025.08.05-08.26.42:577][  0]LogStaticMesh: Built static mesh [1.89s] /Game/Sterilizer/Mesh/SM_Decoc196.SM_Decoc196
+[2025.08.05-08.26.42:625][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc195……
+[2025.08.05-08.26.44:168][  0]LogStaticMesh: Built static mesh [1.54s] /Game/Sterilizer/Mesh/SM_Decoc195.SM_Decoc195
+[2025.08.05-08.26.44:215][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc194……
+[2025.08.05-08.26.46:117][  0]LogStaticMesh: Built static mesh [1.90s] /Game/Sterilizer/Mesh/SM_Decoc194.SM_Decoc194
+[2025.08.05-08.26.46:167][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc193……
+[2025.08.05-08.26.47:470][  0]LogStaticMesh: Built static mesh [1.30s] /Game/Sterilizer/Mesh/SM_Decoc193.SM_Decoc193
+[2025.08.05-08.26.47:681][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc192……
+[2025.08.05-08.26.49:470][  0]LogStaticMesh: Built static mesh [1.79s] /Game/Sterilizer/Mesh/SM_Decoc192.SM_Decoc192
+[2025.08.05-08.26.49:570][  0]LogStaticMesh: 正在构建静态网格体SM_Decoc190……
+[2025.08.05-08.26.50:951][  0]LogStaticMesh: Built static mesh [1.38s] /Game/Sterilizer/Mesh/SM_Decoc190.SM_Decoc190
+[2025.08.05-08.26.51:006][  0]LogStaticMesh: 正在构建静态网格体SM_Transparent_Curtain_02……
+[2025.08.05-08.26.51:235][  0]LogStaticMesh: Built static mesh [0.23s] /Game/Sterilizer/Demo/Mesh/SM_Transparent_Curtain_02.SM_Transparent_Curtain_02
+[2025.08.05-08.26.51:252][  0]LogStaticMesh: 正在构建静态网格体SM_Roof_3……
+[2025.08.05-08.26.51:253][  0]LogStaticMesh: Built static mesh [0.00s] /Game/Sterilizer/Demo/Mesh/SM_Roof_3.SM_Roof_3
+[2025.08.05-08.26.51:253][  0]LogStaticMesh: 正在构建静态网格体SM_Roof_2……
+[2025.08.05-08.26.51:808][  0]LogStaticMesh: Built static mesh [0.55s] /Game/Sterilizer/Demo/Mesh/SM_Roof_2.SM_Roof_2
+[2025.08.05-08.26.51:810][  0]LogPhysicsCore: Error: PHYSX: (D:\Build\++Fortnite\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\Cooking.cpp 198) eINVALID_PARAMETER : Cooking::cookConvexMesh: user-provided convex mesh descriptor is invalid!
+[2025.08.05-08.26.51:810][  0]LogPhysicsCore: Error: PHYSX: (D:\Build\++Fortnite\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\Cooking.cpp 198) eINVALID_PARAMETER : Cooking::cookConvexMesh: user-provided convex mesh descriptor is invalid!
+[2025.08.05-08.26.51:810][  0]LogPhysics: Warning: Failed to cook convex: /Game/Sterilizer/Demo/Mesh/SM_Roof_2.SM_Roof_2 3 (FlipX:0). The remaining elements will not get cooked.
+[2025.08.05-08.26.51:810][  0]LogPhysicsCore: Error: PHYSX: (D:\Build\++Fortnite\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\Cooking.cpp 198) eINVALID_PARAMETER : Cooking::cookConvexMesh: user-provided convex mesh descriptor is invalid!
+[2025.08.05-08.26.51:810][  0]LogPhysicsCore: Error: PHYSX: (D:\Build\++Fortnite\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\Cooking.cpp 198) eINVALID_PARAMETER : Cooking::cookConvexMesh: user-provided convex mesh descriptor is invalid!
+[2025.08.05-08.26.51:810][  0]LogPhysics: Warning: Failed to cook convex: /Game/Sterilizer/Demo/Mesh/SM_Roof_2.SM_Roof_2 3 (FlipX:1). The remaining elements will not get cooked.
+[2025.08.05-08.26.51:834][  0]LogPhysics: Warning: Attempt to build physics data for /Game/Sterilizer/Demo/Mesh/SM_Roof_2.SM_Roof_2:BodySetup_0 when we are unable to.
+[2025.08.05-08.26.51:848][  0]LogStaticMesh: 正在构建静态网格体SM_Roof_1……
+[2025.08.05-08.26.51:871][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Sterilizer/Demo/Mesh/SM_Roof_1.SM_Roof_1
+[2025.08.05-08.26.51:872][  0]LogStaticMesh: 正在构建静态网格体SM_Pano……
+[2025.08.05-08.26.51:981][  0]LogStaticMesh: Built static mesh [0.11s] /Game/Sterilizer/Demo/Mesh/SM_Pano.SM_Pano
+[2025.08.05-08.26.51:987][  0]LogStaticMesh: 正在构建静态网格体SM_Downlight……
+[2025.08.05-08.26.51:993][  0]LogStaticMesh: Built static mesh [0.01s] /Game/Sterilizer/Demo/Mesh/SM_Downlight.SM_Downlight
+[2025.08.05-08.26.51:996][  0]LogStaticMesh: 正在构建静态网格体SM_Curtain_02……
+[2025.08.05-08.26.52:473][  0]LogStaticMesh: Built static mesh [0.48s] /Game/Sterilizer/Demo/Mesh/SM_Curtain_02.SM_Curtain_02
+[2025.08.05-08.26.52:581][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'model'.
+[2025.08.05-08.26.52:582][  0]LogAIModule: Creating AISystem for world model
+[2025.08.05-08.26.52:585][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2025.08.05-08.26.52:585][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2025.08.05-08.26.52:585][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2025.08.05-08.26.52:585][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2025.08.05-08.26.52:585][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2025.08.05-08.26.52:585][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2025.08.05-08.26.52:585][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2025.08.05-08.26.52:585][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2025.08.05-08.26.52:585][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2025.08.05-08.26.52:585][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[4] invalid
+[2025.08.05-08.26.52:585][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2025.08.05-08.26.52:585][  0]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[5] invalid
+[2025.08.05-08.26.52:592][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.08.05-08.26.52:599][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.08.05-08.26.52:650][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.08.05-08.26.52:650][  0]MapCheck: 地图检测完成：0个错误、0个警告、完成用时0.104毫秒。
+[2025.08.05-08.26.52:650][  0]LogFileHelpers: Loading map 'model' took 450.461
+[2025.08.05-08.26.52:651][  0]LogUnrealEdMisc: Total Editor Startup Time, took 458.324
+[2025.08.05-08.26.52:716][  0]LogWindowsTextInputMethodSystem: Display: IME system activated using TSF (微软拼音).
+[2025.08.05-08.26.52:751][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.05-08.26.52:754][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.05-08.26.52:757][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.05-08.26.52:760][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.05-08.26.52:772][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0067 seconds. Added 3822 classes and 928 folders.
+[2025.08.05-08.26.52:776][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2025.08.05-08.26.52:778][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2025.08.05-08.26.52:778][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.08.05-08.26.52:778][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2025.08.05-08.26.52:778][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2025.08.05-08.26.52:778][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2025.08.05-08.26.52:778][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2025.08.05-08.26.52:780][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2025.08.05-08.26.52:780][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.08.05-08.26.52:780][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2025.08.05-08.26.52:780][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.08.05-08.26.52:780][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2025.08.05-08.26.52:780][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2025.08.05-08.26.52:781][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2025.08.05-08.26.52:781][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.08.05-08.26.52:781][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2025.08.05-08.26.52:781][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2025.08.05-08.26.52:781][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2025.08.05-08.26.52:781][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2025.08.05-08.26.52:783][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2025.08.05-08.26.52:783][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.08.05-08.26.52:783][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2025.08.05-08.26.52:783][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2025.08.05-08.26.52:783][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/StarterContent.upack)
+[2025.08.05-08.26.52:783][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2025.08.05-08.26.52:785][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2025.08.05-08.26.52:785][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.08.05-08.26.52:785][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2025.08.05-08.26.52:785][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2025.08.05-08.26.52:785][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2025.08.05-08.26.52:785][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2025.08.05-08.26.52:786][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2025.08.05-08.26.52:786][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.08.05-08.26.52:786][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2025.08.05-08.26.52:786][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.08.05-08.26.52:786][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2025.08.05-08.26.52:786][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2025.08.05-08.26.52:788][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2025.08.05-08.26.52:788][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.08.05-08.26.52:788][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2025.08.05-08.26.52:788][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2025.08.05-08.26.52:788][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2025.08.05-08.26.52:788][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2025.08.05-08.26.52:789][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2025.08.05-08.26.52:789][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.08.05-08.26.52:789][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2025.08.05-08.26.52:789][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.08.05-08.26.52:789][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2025.08.05-08.26.52:789][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2025.08.05-08.26.52:791][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2025.08.05-08.26.52:791][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.08.05-08.26.52:791][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2025.08.05-08.26.52:791][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.08.05-08.26.52:791][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2025.08.05-08.26.52:791][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2025.08.05-08.26.52:794][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2025.08.05-08.26.52:794][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.08.05-08.26.52:794][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2025.08.05-08.26.52:794][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2025.08.05-08.26.52:794][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2025.08.05-08.26.52:794][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2025.08.05-08.26.52:796][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2025.08.05-08.26.52:796][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.08.05-08.26.52:796][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2025.08.05-08.26.52:796][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.08.05-08.26.52:796][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2025.08.05-08.26.52:796][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2025.08.05-08.26.52:798][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2025.08.05-08.26.52:798][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.08.05-08.26.52:798][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2025.08.05-08.26.52:798][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2025.08.05-08.26.52:798][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2025.08.05-08.26.52:798][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2025.08.05-08.26.52:799][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2025.08.05-08.26.52:799][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.08.05-08.26.52:799][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2025.08.05-08.26.52:799][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.08.05-08.26.52:799][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2025.08.05-08.26.52:799][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2025.08.05-08.26.52:800][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2025.08.05-08.26.52:800][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.08.05-08.26.52:800][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2025.08.05-08.26.52:800][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2025.08.05-08.26.52:800][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2025.08.05-08.26.52:800][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2025.08.05-08.26.52:802][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2025.08.05-08.26.52:802][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.08.05-08.26.52:802][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2025.08.05-08.26.52:802][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.08.05-08.26.52:802][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2025.08.05-08.26.52:802][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2025.08.05-08.26.52:803][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2025.08.05-08.26.52:803][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.08.05-08.26.52:803][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2025.08.05-08.26.52:803][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2025.08.05-08.26.52:803][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2025.08.05-08.26.52:803][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2025.08.05-08.26.52:804][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2025.08.05-08.26.52:804][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.08.05-08.26.52:804][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2025.08.05-08.26.52:804][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.08.05-08.26.52:804][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2025.08.05-08.26.52:804][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2025.08.05-08.26.52:810][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2025.08.05-08.26.52:810][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.08.05-08.26.52:811][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2025.08.05-08.26.52:811][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2025.08.05-08.26.52:811][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2025.08.05-08.26.52:811][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2025.08.05-08.26.52:812][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2025.08.05-08.26.52:812][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.08.05-08.26.52:812][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2025.08.05-08.26.52:812][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.08.05-08.26.52:812][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2025.08.05-08.26.52:812][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2025.08.05-08.26.52:813][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2025.08.05-08.26.52:813][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.08.05-08.26.52:813][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2025.08.05-08.26.52:813][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2025.08.05-08.26.52:813][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2025.08.05-08.26.52:813][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2025.08.05-08.26.52:814][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2025.08.05-08.26.52:814][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.08.05-08.26.52:814][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2025.08.05-08.26.52:815][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.08.05-08.26.52:815][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2025.08.05-08.26.52:815][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2025.08.05-08.26.52:816][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2025.08.05-08.26.52:816][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.08.05-08.26.52:816][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2025.08.05-08.26.52:816][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2025.08.05-08.26.52:816][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2025.08.05-08.26.52:816][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2025.08.05-08.26.52:818][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2025.08.05-08.26.52:818][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.08.05-08.26.52:818][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2025.08.05-08.26.52:818][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2025.08.05-08.26.52:818][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2025.08.05-08.26.52:818][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2025.08.05-08.26.52:820][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2025.08.05-08.26.52:820][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.08.05-08.26.52:820][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2025.08.05-08.26.52:820][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.08.05-08.26.52:820][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2025.08.05-08.26.52:820][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2025.08.05-08.26.52:821][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2025.08.05-08.26.52:821][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.08.05-08.26.52:821][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2025.08.05-08.26.52:821][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.08.05-08.26.52:821][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2025.08.05-08.26.52:821][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2025.08.05-08.26.52:823][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2025.08.05-08.26.52:823][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2025.08.05-08.26.52:823][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2025.08.05-08.26.52:823][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'D:/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2025.08.05-08.26.52:823][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:D:/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2025.08.05-08.26.52:823][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2025.08.05-08.26.52:899][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2025.08.05-08.26.52:899][  0]LogSlate: The tab "/Game/MeshTool_ue4.MeshTool_ActiveTab" attempted to spawn in layout 'LevelEditor_Layout_v1.2' but failed for some reason. It will not be displayed.
+[2025.08.05-08.26.52:899][  0]LogSlate: The tab "/Game/MeshTool_ue4.MeshTool_ActiveTab" attempted to spawn in layout 'LevelEditor_Layout_v1.2' but failed for some reason. It will not be displayed.
+[2025.08.05-08.26.52:899][  0]LogSlate: The tab "/Game/TidyTool_ue4.TidyTool_ActiveTab" attempted to spawn in layout 'LevelEditor_Layout_v1.2' but failed for some reason. It will not be displayed.
+[2025.08.05-08.26.52:899][  0]LogSlate: The tab "/Game/TidyTool_ue4.TidyTool_ActiveTab" attempted to spawn in layout 'LevelEditor_Layout_v1.2' but failed for some reason. It will not be displayed.
+[2025.08.05-08.26.52:899][  0]LogSlate: The tab "/Game/TidyTool_ue4.TidyTool_ActiveTab" attempted to spawn in layout 'LevelEditor_Layout_v1.2' but failed for some reason. It will not be displayed.
+[2025.08.05-08.26.52:900][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2025.08.05-08.26.52:946][  0]LogSlate: Took 0.001059 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.08.05-08.26.52:948][  0]LogSlate: Took 0.000915 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.08.05-08.26.52:957][  0]LogSlate: Took 0.008821 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2025.08.05-08.26.52:958][  0]LogSlate: Took 0.001089 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.08.05-08.26.53:028][  0]LogRenderer: Reallocating scene render targets to support 884x292 Format 10 NumSamples 1 (Frame:1).
+[2025.08.05-08.26.53:301][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2025.08.05-08.26.53:301][  0]LogLoad: (Engine Initialization) Total time: 458.97 seconds
+[2025.08.05-08.26.53:301][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2025.08.05-08.26.53:336][  0]LogAssetRegistry: Asset discovery search completed in 455.8058 seconds
+[2025.08.05-08.26.53:342][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2025.08.05-08.26.53:344][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2025.08.05-08.26.53:443][  3]LogSlate: Took 0.001303 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.08.05-08.32.48:076][145]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (SM_DisinfectionCabinet_04)
+[2025.08.05-08.33.11:607][832]LogRenderer: Reallocating scene render targets to support 884x296 Format 10 NumSamples 1 (Frame:28430).
+[2025.08.05-08.33.11:665][834]LogRenderer: Reallocating scene render targets to support 884x304 Format 10 NumSamples 1 (Frame:28432).
+[2025.08.05-08.33.11:698][835]LogRenderer: Reallocating scene render targets to support 884x308 Format 10 NumSamples 1 (Frame:28434).
+[2025.08.05-08.33.11:728][836]LogRenderer: Reallocating scene render targets to support 884x316 Format 10 NumSamples 1 (Frame:28436).
+[2025.08.05-08.33.11:792][838]LogRenderer: Reallocating scene render targets to support 884x324 Format 10 NumSamples 1 (Frame:28440).
+[2025.08.05-08.33.11:826][840]LogRenderer: Reallocating scene render targets to support 884x328 Format 10 NumSamples 1 (Frame:28442).
+[2025.08.05-08.33.11:881][842]LogRenderer: Reallocating scene render targets to support 884x332 Format 10 NumSamples 1 (Frame:28446).
+[2025.08.05-08.33.11:935][845]LogRenderer: Reallocating scene render targets to support 884x336 Format 10 NumSamples 1 (Frame:28450).
+[2025.08.05-08.33.23:562][ 93]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.08.05-08.33.23:569][ 93]PIE: New page: PIE会话：model（2025年8月6日 上午12:33:23）
+[2025.08.05-08.33.23:577][ 93]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2025.08.05-08.33.23:579][ 93]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2025.08.05-08.33.23:580][ 93]LogPlayLevel: Creating play world package: /Game/Sterilizer/Map/UEDPIE_0_model
+[2025.08.05-08.33.23:612][ 93]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030948s)
+[2025.08.05-08.33.23:613][ 93]LogAIModule: Creating AISystem for world model
+[2025.08.05-08.33.23:614][ 93]LogPlayLevel: PIE: World Init took: (0.002311s)
+[2025.08.05-08.33.23:615][ 93]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Sterilizer/Map/model.model to /Game/Sterilizer/Map/UEDPIE_0_model.model (0.034407s)
+[2025.08.05-08.33.23:620][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.08.05-08.33.23:624][ 93]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.08.05-08.33.23:624][ 93]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.08.05-08.33.23:624][ 93]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.08.05-08.33.23:624][ 93]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.08.05-08.33.23:624][ 93]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.08.05-08.33.23:624][ 93]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.08.05-08.33.23:624][ 93]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.08.05-08.33.23:624][ 93]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.08.05-08.33.23:624][ 93]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.08.05-08.33.23:625][ 93]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.08.05-08.33.23:625][ 93]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.08.05-08.33.23:625][ 93]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.08.05-08.33.23:625][ 93]LogAudioMixer: Display: Initializing audio mixer.
+[2025.08.05-08.33.23:631][ 93]LogAudioMixer: Display: 0: FrontLeft
+[2025.08.05-08.33.23:631][ 93]LogAudioMixer: Display: 1: FrontRight
+[2025.08.05-08.33.23:645][ 93]LogAudioMixer: Display: Using Audio Device DELL E1914H (NVIDIA High Definition Audio)
+[2025.08.05-08.33.23:646][ 93]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.08.05-08.33.23:646][ 93]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.08.05-08.33.23:646][ 93]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.08.05-08.33.23:646][ 93]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2025.08.05-08.33.23:646][ 93]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2025.08.05-08.33.23:646][ 93]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2025.08.05-08.33.23:647][ 93]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2025.08.05-08.33.23:647][ 93]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2025.08.05-08.33.23:647][ 93]LogInit: FAudioDevice initialized.
+[2025.08.05-08.33.23:647][ 93]LogAudio: Display: Audio Device (ID: 2) registered with world 'model'.
+[2025.08.05-08.33.23:694][ 93]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.08.05-08.33.23:698][ 93]LogLoad: Game class is 'GameModeBase'
+[2025.08.05-08.33.23:708][ 93]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2025.08.05-08.33.23:708][ 93]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[0] invalid
+[2025.08.05-08.33.23:708][ 93]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2025.08.05-08.33.23:708][ 93]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[1] invalid
+[2025.08.05-08.33.23:708][ 93]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2025.08.05-08.33.23:708][ 93]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[2] invalid
+[2025.08.05-08.33.23:708][ 93]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2025.08.05-08.33.23:708][ 93]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[3] invalid
+[2025.08.05-08.33.23:708][ 93]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2025.08.05-08.33.23:708][ 93]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[4] invalid
+[2025.08.05-08.33.23:709][ 93]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2025.08.05-08.33.23:709][ 93]LogPhysics: Warning: ForeachShape(Convex): ScaledElem[5] invalid
+[2025.08.05-08.33.23:713][ 93]LogWorld: Bringing World /Game/Sterilizer/Map/UEDPIE_0_model.model up for play (max tick rate 0) at 2025.08.05-16.33.23
+[2025.08.05-08.33.23:714][ 93]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2025.08.05-08.33.23:766][ 93]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.052 s
+[2025.08.05-08.33.23:766][ 93]LogOutputDevice: Error: === Handled ensure: ===
+[2025.08.05-08.33.23:766][ 93]LogOutputDevice: Error: 
+[2025.08.05-08.33.23:766][ 93]LogOutputDevice: Error: Ensure condition failed: Class.IsValid() [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/UserInterface/InputSettings.cpp] [Line: 460]
+[2025.08.05-08.33.23:766][ 93]LogOutputDevice: Error: Invalid InputComponent class in Input Settings. Manual reset required.
+[2025.08.05-08.33.23:766][ 93]LogOutputDevice: Error: Stack: 
+[2025.08.05-08.33.23:766][ 93]LogOutputDevice: Error: [Callstack] 0x00007ffa937f1e99 UE4Editor-Engine.dll!UnknownFunction []
+[2025.08.05-08.33.23:767][ 93]LogOutputDevice: Error: [Callstack] 0x00007ffa93006373 UE4Editor-Engine.dll!UnknownFunction []
+[2025.08.05-08.33.23:767][ 93]LogOutputDevice: Error: [Callstack] 0x00007ffa925d0454 UE4Editor-Engine.dll!UnknownFunction []
+[2025.08.05-08.33.23:767][ 93]LogOutputDevice: Error: [Callstack] 0x00007ffa925e2da8 UE4Editor-Engine.dll!UnknownFunction []
+[2025.08.05-08.33.23:767][ 93]LogOutputDevice: Error: [Callstack] 0x00007ffa9308461d UE4Editor-Engine.dll!UnknownFunction []
+[2025.08.05-08.33.23:767][ 93]LogOutputDevice: Error: [Callstack] 0x00007ffa9241e979 UE4Editor-Engine.dll!UnknownFunction []
+[2025.08.05-08.33.23:767][ 93]LogOutputDevice: Error: [Callstack] 0x00007ffa8daf2c45 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.08.05-08.33.23:767][ 93]LogOutputDevice: Error: [Callstack] 0x00007ffa8db1622f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.08.05-08.33.23:767][ 93]LogOutputDevice: Error: [Callstack] 0x00007ffa8daf397d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.08.05-08.33.23:767][ 93]LogOutputDevice: Error: [Callstack] 0x00007ffa8db33772 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.08.05-08.33.23:767][ 93]LogOutputDevice: Error: [Callstack] 0x00007ffa8db36d31 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.08.05-08.33.23:767][ 93]LogOutputDevice: Error: [Callstack] 0x00007ffa8db365f8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.08.05-08.33.23:767][ 93]LogOutputDevice: Error: [Callstack] 0x00007ffa8d590c8c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.08.05-08.33.23:767][ 93]LogOutputDevice: Error: [Callstack] 0x00007ffa8de92ba6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.08.05-08.33.23:767][ 93]LogOutputDevice: Error: [Callstack] 0x00007ff7a78f87a0 UE4Editor.exe!UnknownFunction []
+[2025.08.05-08.33.23:767][ 93]LogOutputDevice: Error: [Callstack] 0x00007ff7a7910fcc UE4Editor.exe!UnknownFunction []
+[2025.08.05-08.33.23:767][ 93]LogOutputDevice: Error: [Callstack] 0x00007ff7a79110ba UE4Editor.exe!UnknownFunction []
+[2025.08.05-08.33.23:767][ 93]LogOutputDevice: Error: [Callstack] 0x00007ff7a79140dd UE4Editor.exe!UnknownFunction []
+[2025.08.05-08.33.23:767][ 93]LogOutputDevice: Error: [Callstack] 0x00007ff7a7925984 UE4Editor.exe!UnknownFunction []
+[2025.08.05-08.33.23:767][ 93]LogOutputDevice: Error: [Callstack] 0x00007ff7a792853a UE4Editor.exe!UnknownFunction []
+[2025.08.05-08.33.23:767][ 93]LogOutputDevice: Error: [Callstack] 0x00007ffb62487344 KERNEL32.DLL!UnknownFunction []
+[2025.08.05-08.33.23:767][ 93]LogOutputDevice: Error: [Callstack] 0x00007ffb644626b1 ntdll.dll!UnknownFunction []
+[2025.08.05-08.33.23:767][ 93]LogOutputDevice: Error: 
+[2025.08.05-08.33.23:778][ 93]LogStats:                SubmitErrorReport -  0.000 s
+[2025.08.05-08.33.25:263][ 93]LogStats:                    SendNewReport -  1.485 s
+[2025.08.05-08.33.25:263][ 93]LogStats:             FDebug::EnsureFailed -  1.550 s
+[2025.08.05-08.33.25:266][ 93]LogWorld: Bringing up level for play took: 1.558826
+[2025.08.05-08.33.25:268][ 93]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2025.08.05-08.33.25:272][ 93]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2025.08.05-08.33.25:308][ 93]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.036 s
+[2025.08.05-08.33.25:308][ 93]LogOutputDevice: Error: === Handled ensure: ===
+[2025.08.05-08.33.25:308][ 93]LogOutputDevice: Error: 
+[2025.08.05-08.33.25:308][ 93]LogOutputDevice: Error: Ensure condition failed: Class.IsValid() [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/UserInterface/InputSettings.cpp] [Line: 453]
+[2025.08.05-08.33.25:308][ 93]LogOutputDevice: Error: Invalid PlayerInput class in Input Settings. Manual reset required.
+[2025.08.05-08.33.25:308][ 93]LogOutputDevice: Error: Stack: 
+[2025.08.05-08.33.25:308][ 93]LogOutputDevice: Error: [Callstack] 0x00007ffa937f2709 UE4Editor-Engine.dll!UnknownFunction []
+[2025.08.05-08.33.25:308][ 93]LogOutputDevice: Error: [Callstack] 0x00007ffa930066f3 UE4Editor-Engine.dll!UnknownFunction []
+[2025.08.05-08.33.25:308][ 93]LogOutputDevice: Error: [Callstack] 0x00007ffa92afd7ee UE4Editor-Engine.dll!UnknownFunction []
+[2025.08.05-08.33.25:308][ 93]LogOutputDevice: Error: [Callstack] 0x00007ffa92b1105b UE4Editor-Engine.dll!UnknownFunction []
+[2025.08.05-08.33.25:308][ 93]LogOutputDevice: Error: [Callstack] 0x00007ffa925eb769 UE4Editor-Engine.dll!UnknownFunction []
+[2025.08.05-08.33.25:308][ 93]LogOutputDevice: Error: [Callstack] 0x00007ffa926498ad UE4Editor-Engine.dll!UnknownFunction []
+[2025.08.05-08.33.25:308][ 93]LogOutputDevice: Error: [Callstack] 0x00007ffa9241e9de UE4Editor-Engine.dll!UnknownFunction []
+[2025.08.05-08.33.25:308][ 93]LogOutputDevice: Error: [Callstack] 0x00007ffa8daf2c45 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.08.05-08.33.25:308][ 93]LogOutputDevice: Error: [Callstack] 0x00007ffa8db1622f UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.08.05-08.33.25:309][ 93]LogOutputDevice: Error: [Callstack] 0x00007ffa8daf397d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.08.05-08.33.25:309][ 93]LogOutputDevice: Error: [Callstack] 0x00007ffa8db33772 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.08.05-08.33.25:309][ 93]LogOutputDevice: Error: [Callstack] 0x00007ffa8db36d31 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.08.05-08.33.25:309][ 93]LogOutputDevice: Error: [Callstack] 0x00007ffa8db365f8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.08.05-08.33.25:309][ 93]LogOutputDevice: Error: [Callstack] 0x00007ffa8d590c8c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.08.05-08.33.25:309][ 93]LogOutputDevice: Error: [Callstack] 0x00007ffa8de92ba6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2025.08.05-08.33.25:309][ 93]LogOutputDevice: Error: [Callstack] 0x00007ff7a78f87a0 UE4Editor.exe!UnknownFunction []
+[2025.08.05-08.33.25:309][ 93]LogOutputDevice: Error: [Callstack] 0x00007ff7a7910fcc UE4Editor.exe!UnknownFunction []
+[2025.08.05-08.33.25:309][ 93]LogOutputDevice: Error: [Callstack] 0x00007ff7a79110ba UE4Editor.exe!UnknownFunction []
+[2025.08.05-08.33.25:309][ 93]LogOutputDevice: Error: [Callstack] 0x00007ff7a79140dd UE4Editor.exe!UnknownFunction []
+[2025.08.05-08.33.25:309][ 93]LogOutputDevice: Error: [Callstack] 0x00007ff7a7925984 UE4Editor.exe!UnknownFunction []
+[2025.08.05-08.33.25:309][ 93]LogOutputDevice: Error: [Callstack] 0x00007ff7a792853a UE4Editor.exe!UnknownFunction []
+[2025.08.05-08.33.25:309][ 93]LogOutputDevice: Error: [Callstack] 0x00007ffb62487344 KERNEL32.DLL!UnknownFunction []
+[2025.08.05-08.33.25:309][ 93]LogOutputDevice: Error: [Callstack] 0x00007ffb644626b1 ntdll.dll!UnknownFunction []
+[2025.08.05-08.33.25:309][ 93]LogOutputDevice: Error: 
